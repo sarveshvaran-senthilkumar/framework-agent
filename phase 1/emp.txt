@@ -1,0 +1,12 @@
+{
+    "sarveshvaran": "active",
+    "divakar": "wfh",
+    "sushmitha": "on leave",
+    "shakti": "active",
+    "rohan": "inactive",
+    "deva": "active",
+    "sarath": "wfh",
+    "ajay": "on leave"
+}
+
+

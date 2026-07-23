@@ -1,0 +1,10 @@
+{
+    "sarveshvaran": "fg",
+    "divakar": "cs",
+    "sushmitha": "cs",
+    "shakti": "crri",
+    "rohan": "crri",
+    "deva": "rd",
+    "sarath": "cs",
+    "ajay": "tcg"
+}

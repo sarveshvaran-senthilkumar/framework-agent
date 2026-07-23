@@ -1,0 +1,22 @@
+{
+    "emp": {
+        "sarveshvaran": "active",
+        "divakar": "wfh",
+        "sushmitha": "on leave",
+        "shakti": "active",
+        "rohan": "inactive",
+        "deva": "active",
+        "sarath": "wfh",
+        "ajay": "on leave"
+    },
+    "dept": {
+        "sarveshvaran": "fg",
+        "divakar": "cs",
+        "sushmitha": "cs",
+        "shakti": "crri",
+        "rohan": "crri",
+        "deva": "rd",
+        "sarath": "cs",
+        "ajay": "tcg"
+    }
+}
