@@ -1,0 +1,3696 @@
+{
+  "nodes": {
+    "Structural": {
+      "type": "category",
+      "attributes": [
+        "Web Width",
+        "Width-to-Depth Ratio",
+        "Span-to-Depth Ratio",
+        "Effective Span to Effective Depth Ratio",
+        "Beam Depth",
+        "Minimum Area of Tension Reinforcement",
+        "Maximum Percentage of Longitudinal Tension Reinforcement",
+        "Maximum Percentage of Longitudinal Compression Reinforcement",
+        "Condition for Side Face Reinforcement",
+        "Minimum Area of Side Face Reinforcement",
+        "Maximum Spacing of Side Face Reinforcement",
+        "Minimum Shear Reinforcement Area per Unit Spacing",
+        "Spacing",
+        "Diameter",
+        "Stirrup Configuration",
+        "Tie Type",
+        "Final Deflection",
+        "Post-Erection Deflection",
+        "End bearing length",
+        "Reinforcement steel tonnage",
+        "Steel density",
+        "Lap Length",
+        "Weight Tolerance",
+        "Binding Wire Allowance",
+        "Ceiling Height",
+        "Clear Width",
+        "Riser Height",
+        "Tread Width",
+        "Front Setback",
+        "Rear Setback",
+        "Cross-sectional dimension ratio",
+        "Slenderness ratio",
+        "Minimum design eccentricity",
+        "Minimum cross-sectional area",
+        "Reinforcement Percentage",
+        "Minimum Bar Count",
+        "Volume Ratio (V_h / V_c)",
+        "Helical Tie Pitch (Maximum)",
+        "Helical Tie Pitch (Minimum)",
+        "Maximum Tie Spacing",
+        "Clear distance between longitudinal bars",
+        "Fire Resistance Rating",
+        "Tread Depth",
+        "Stabilization Method",
+        "Differential settlement",
+        "Total allowable settlement",
+        "Minimum reinforcement percentage",
+        "Nominal Dimensions",
+        "Compressive Strength",
+        "Slenderness Ratio",
+        "Dry Film Thickness",
+        "Application Time",
+        "DFT",
+        "Compacted Thickness",
+        "Layer Thickness",
+        "Aggregate Impact Value",
+        "Platform Width (General Access)",
+        "Platform Width (Heavy Storage)",
+        "Concentration",
+        "Distribution Steel Percentage",
+        "Main Reinforcement Percentage",
+        "Main Tension Reinforcement Percentage",
+        "Area",
+        "Extension Distance",
+        "Slab Middle Strip Width",
+        "Slab Edge Strip Width",
+        "Long-term deflection",
+        "Maximum deflection",
+        "Skin friction resistance",
+        "Ground water rise elevation",
+        "Percentage Elongation",
+        "TS/YS Ratio",
+        "Tension Lap Length",
+        "Compression Lap Length",
+        "Bend Diameter",
+        "Straight Extension Length",
+        "Re-bending angle",
+        "Clear horizontal distance",
+        "Clear spacing",
+        "Scale",
+        "Linear Dimension Tolerance",
+        "Elevation Accuracy",
+        "Anchor Bolt Spacing Tolerance",
+        "Prefix",
+        "Shading/Hatching",
+        "Revision Symbol Height",
+        "General Text Height",
+        "Major Title Text Height",
+        "Membrane Thickness",
+        "Waterstop Width",
+        "Waterstop Thickness",
+        "Waterstop Section"
+      ]
+    },
+    "Concrete": {
+      "type": "category",
+      "attributes": [
+        "Crack width",
+        "Clear cover",
+        "Clear distance tolerance",
+        "Grade",
+        "Quantity Rate",
+        "Deduction Threshold",
+        "Volume",
+        "Thickness",
+        "Extension Width",
+        "Stripping Time",
+        "Excavation Width",
+        "Minimum Cross-Sectional Dimension",
+        "Clear cover to lateral ties",
+        "Clear concrete cover tolerance",
+        "Compressive Strength",
+        "7-day Compressive Strength",
+        "Water-Cement Ratio",
+        "Water-cement ratio",
+        "Cement content",
+        "Cementitious material content",
+        "Mixing time",
+        "Slump",
+        "Superplasticizer Dosage",
+        "Fly Ash Substitution",
+        "GGBS Substitution",
+        "Admixture Type",
+        "Curing Duration",
+        "Temperature",
+        "Curing Start Time",
+        "Placement Level",
+        "Offset",
+        "Cement Type",
+        "Cement Content",
+        "Cover Depth",
+        "Clear concrete cover",
+        "Dry Density",
+        "Mix Ratio",
+        "Depth",
+        "Bearing Length",
+        "Projection",
+        "Dry Film Thickness",
+        "Curing Time",
+        "Moisture Content",
+        "pH Value",
+        "Liquid Limit",
+        "Plasticity Index",
+        "Height",
+        "Width",
+        "Length",
+        "Application Rate",
+        "Cross-section",
+        "Span-to-effective-depth ratio",
+        "Span-to-effective-depth ratio (L/d)",
+        "Span-to-overall-depth ratio (L/D)",
+        "Material Grade",
+        "Yield Strength",
+        "Tolerance on specified concrete cover dimensions",
+        "Dimension Tolerance",
+        "Hatching Angle",
+        "Hatching Spacing",
+        "Radius",
+        "Slope",
+        "Groove Depth",
+        "Groove Width"
+      ]
+    },
+    "Measurement": {
+      "type": "category",
+      "attributes": [
+        "Void Size"
+      ]
+    },
+    "Cost": {
+      "type": "category",
+      "attributes": [
+        "Unit Rate"
+      ]
+    },
+    "Earthwork": {
+      "type": "category",
+      "attributes": [
+        "Measurement Unit",
+        "Payment Depth Staging Interval",
+        "Compaction",
+        "Height",
+        "Compaction Density",
+        "Lift Thickness",
+        "Roller Weight",
+        "Number of Passes",
+        "Layer Thickness"
+      ]
+    },
+    "Plastering": {
+      "type": "category",
+      "attributes": [
+        "Deduction Threshold",
+        "Thickness",
+        "Mix Ratio",
+        "Unit Rate"
+      ]
+    },
+    "Masonry": {
+      "type": "category",
+      "attributes": [
+        "Deduction Threshold",
+        "Length",
+        "Height",
+        "Thickness",
+        "Compressive Strength",
+        "Curing Duration",
+        "Joint Thickness",
+        "Bond Pattern",
+        "Head Joint Overlap"
+      ]
+    },
+    "Structural Steel": {
+      "type": "category",
+      "attributes": [
+        "Measurement Basis",
+        "Weight Basis",
+        "Welding and Bolt Allowance"
+      ]
+    },
+    "Spatial": {
+      "type": "category",
+      "attributes": [
+        "Area",
+        "Width",
+        "Floor Area",
+        "Clear Width",
+        "Ceiling Height"
+      ]
+    },
+    "Safety": {
+      "type": "category",
+      "attributes": [
+        "Height",
+        "Head-room",
+        "Width",
+        "Headroom",
+        "Travel Distance",
+        "Dead-end corridor length",
+        "Maximum travel distance to fire extinguisher",
+        "Fire extinguisher mounting height (minimum)",
+        "Fire extinguisher mounting height (maximum)",
+        "Quantity",
+        "Type",
+        "Threshold Area",
+        "Closing Force",
+        "Illumination Level",
+        "Power Duration",
+        "Handrail Height",
+        "Depth",
+        "Backfill Material",
+        "PPE Type",
+        "Height Threshold",
+        "Static Load Capacity",
+        "Vest Class",
+        "Impact Force Resistance",
+        "Noise Exposure Level",
+        "Inspection Frequency",
+        "Inspection Trigger",
+        "Inclination Angle",
+        "Height-to-Base Ratio",
+        "Depth Threshold",
+        "Clearance Distance",
+        "Lateral travel distance",
+        "Warning tape",
+        "Capacity",
+        "Maximum Walking Distance",
+        "Coverage Ratio",
+        "Fire Watch Duration",
+        "Clear Passage Width",
+        "Distance",
+        "Ground water table depth",
+        "Spacing"
+      ]
+    },
+    "Site Planning": {
+      "type": "category",
+      "attributes": [
+        "Side setbacks",
+        "Floor Area Ratio (FAR)",
+        "Ground coverage"
+      ]
+    },
+    "Parking": {
+      "type": "category",
+      "attributes": [
+        "Parking rate",
+        "Width",
+        "Length"
+      ]
+    },
+    "Driveway": {
+      "type": "category",
+      "attributes": [
+        "Clear Width"
+      ]
+    },
+    "Electrical": {
+      "type": "category",
+      "attributes": [
+        "Conductor Cross-Sectional Area",
+        "Conductor Size",
+        "Outer Diameter",
+        "Wall Thickness",
+        "Fill Ratio",
+        "IP Rating",
+        "Trip Sensitivity",
+        "Current Rating",
+        "Short-circuit Breaking Capacity",
+        "Voltage Drop",
+        "Dimensions",
+        "Thickness",
+        "Internal Diameter",
+        "Length",
+        "Ground Loop Resistance",
+        "Diameter",
+        "Cross-section",
+        "Material",
+        "SWG",
+        "Spacing",
+        "Height",
+        "Clear Distance",
+        "Location Clearance",
+        "Filter Rating",
+        "Dust Arrestance",
+        "ePM1 Efficiency",
+        "Tripping Current",
+        "Soil electrical resistivity"
+      ]
+    },
+    "Lighting": {
+      "type": "category",
+      "attributes": [
+        "Illuminance",
+        "Measurement Height",
+        "Light Level",
+        "Light Intensity"
+      ]
+    },
+    "Plumbing": {
+      "type": "category",
+      "attributes": [
+        "Capacity",
+        "Pressure",
+        "Diameter",
+        "Material",
+        "Filter Aggregate Thickness",
+        "Thickness",
+        "Material Type",
+        "Pressure Rating",
+        "Operating Temperature",
+        "Pipe Stiffness Class",
+        "Working Pressure",
+        "Static Pressure",
+        "Slope",
+        "Flow Velocity",
+        "Water Seal Depth",
+        "Liquid Seal Depth",
+        "Height",
+        "Offset Angle",
+        "Clear Space",
+        "Centerline Spacing",
+        "Clear Distance",
+        "Sedimentation basin retention time",
+        "Total suspended solids (TSS)",
+        "Application Rate",
+        "Width",
+        "Depth",
+        "Extension Length"
+      ]
+    },
+    "Excavation": {
+      "type": "category",
+      "attributes": [
+        "Depth",
+        "Side Slope Inclination"
+      ]
+    },
+    "Geotechnical": {
+      "type": "category",
+      "attributes": [
+        "Dry Density",
+        "Safe Bearing Capacity",
+        "Total Allowable Settlement",
+        "Depth",
+        "Ultimate Bearing Capacity",
+        "Ground water table depth",
+        "SPT N-value",
+        "Corrected SPT N-value",
+        "Depth range",
+        "Soil Classification",
+        "Liquid Limit",
+        "Fines content",
+        "Soil organic content"
+      ]
+    },
+    "Waterproofing": {
+      "type": "category",
+      "attributes": [
+        "Dry Film Thickness",
+        "Thickness",
+        "Height",
+        "Coverage Rate",
+        "Number of Coats",
+        "Ponding Depth",
+        "Test Duration"
+      ]
+    },
+    "HVAC": {
+      "type": "category",
+      "attributes": [
+        "Air Velocity",
+        "Thickness",
+        "Material Type",
+        "Density",
+        "Filtration Efficiency",
+        "Particle Size",
+        "Overall Capacity",
+        "Design Conditions",
+        "COP",
+        "Thermal Load"
+      ]
+    },
+    "Mechanical": {
+      "type": "category",
+      "attributes": [
+        "Velocity",
+        "Ventilation Rate",
+        "Fresh air supply rate",
+        "Mechanical exhaust ventilation rate",
+        "Supply Temperature"
+      ]
+    },
+    "Acoustics": {
+      "type": "category",
+      "attributes": [
+        "Noise Level"
+      ]
+    },
+    "Acoustic": {
+      "type": "category",
+      "attributes": [
+        "Thickness",
+        "Density"
+      ]
+    },
+    "Environmental": {
+      "type": "category",
+      "attributes": [
+        "Temperature Threshold"
+      ]
+    },
+    "Wall Construction": {
+      "type": "category",
+      "attributes": [
+        "Wall Thickness"
+      ]
+    },
+    "Reinforcement": {
+      "type": "category",
+      "attributes": [
+        "Bar Diameter",
+        "Bar Quantity",
+        "Lap Splice Proportion",
+        "Lap Splice Location Distance",
+        "Callout Format",
+        "Shape Code Standard",
+        "Main Bar Prefix"
+      ]
+    },
+    "Mortar Mix": {
+      "type": "category",
+      "attributes": [
+        "Mix Ratio"
+      ]
+    },
+    "Reinforcement Placement": {
+      "type": "category",
+      "attributes": [
+        "Vertical Spacing"
+      ]
+    },
+    "Structural Element": {
+      "type": "category",
+      "attributes": [
+        "Sill Band Thickness"
+      ]
+    },
+    "Placement Location": {
+      "type": "category",
+      "attributes": [
+        "Elevation"
+      ]
+    },
+    "Painting": {
+      "type": "category",
+      "attributes": [
+        "Coat Count",
+        "Primer Type",
+        "Application Sequence",
+        "Number of coats",
+        "Dry film thickness",
+        "Drying Time",
+        "Ambient Temperature",
+        "Re-coat Interval",
+        "Coverage Rate",
+        "Color Code Standard",
+        "Color Variation"
+      ]
+    },
+    "Surface Preparation": {
+      "type": "category",
+      "attributes": [
+        "Cleanliness Rating"
+      ]
+    },
+    "Paint Application": {
+      "type": "category",
+      "attributes": [
+        "Coat Count"
+      ]
+    },
+    "Flooring": {
+      "type": "category",
+      "attributes": [
+        "Coating Type",
+        "Thickness",
+        "Coverage Rate",
+        "Layer Thickness"
+      ]
+    },
+    "Finishing": {
+      "type": "category",
+      "attributes": [
+        "Curing Time"
+      ]
+    },
+    "Pavement": {
+      "type": "category",
+      "attributes": [
+        "Thickness",
+        "Grade",
+        "CBR Value",
+        "Bitumen binder content",
+        "Tack coat application rate",
+        "Transverse Camber",
+        "Superelevation Rate",
+        "Cross-fall Slope"
+      ]
+    },
+    "Aggregates": {
+      "type": "category",
+      "attributes": [
+        "Flakiness and Elongation Index",
+        "Water absorption"
+      ]
+    },
+    "Bitumen": {
+      "type": "category",
+      "attributes": [
+        "Grade"
+      ]
+    },
+    "Paving": {
+      "type": "category",
+      "attributes": [
+        "Compaction Density",
+        "Rolling Temperature",
+        "Laying Temperature"
+      ]
+    },
+    "Road Drainage": {
+      "type": "category",
+      "attributes": [
+        "Longitudinal Gradient",
+        "Spacing"
+      ]
+    },
+    "Site Preparation": {
+      "type": "category",
+      "attributes": [
+        "Topsoil stripping depth",
+        "Ground clearance area"
+      ]
+    },
+    "Survey": {
+      "type": "category",
+      "attributes": [
+        "Minimum number of benchmarks",
+        "Positioning tolerance"
+      ]
+    },
+    "Temporary Facilities": {
+      "type": "category",
+      "attributes": [
+        "Area"
+      ]
+    },
+    "Foundation": {
+      "type": "category",
+      "attributes": [
+        "Settlement"
+      ]
+    },
+    "Testing": {
+      "type": "category",
+      "attributes": [
+        "Frequency"
+      ]
+    },
+    "Soil Properties": {
+      "type": "category",
+      "attributes": [
+        "pH value",
+        "Soluble sulfate content"
+      ]
+    },
+    "Mechanical Couplers": {
+      "type": "category",
+      "attributes": [
+        "Development Strength"
+      ]
+    },
+    "Documentation": {
+      "type": "category",
+      "attributes": [
+        "Scale",
+        "Horizontal Scale",
+        "Vertical Scale",
+        "Width",
+        "Height",
+        "Location",
+        "Field Count",
+        "Left margin",
+        "Top margin",
+        "Right margin",
+        "Bottom margin"
+      ]
+    },
+    "Membrane": {
+      "type": "category",
+      "attributes": [
+        "Thickness",
+        "Side Lap Overlap",
+        "End Lap Overlap",
+        "Penetration Overlap"
+      ]
+    }
+  },
+  "edges": [
+    {
+      "from": "Structural",
+      "to": "Concrete",
+      "relation": "shares_attributes",
+      "shared": [
+        "Compressive Strength",
+        "Dry Film Thickness"
+      ]
+    },
+    {
+      "from": "Structural",
+      "to": "Earthwork",
+      "relation": "shares_attributes",
+      "shared": [
+        "Layer Thickness"
+      ]
+    },
+    {
+      "from": "Structural",
+      "to": "Masonry",
+      "relation": "shares_attributes",
+      "shared": [
+        "Compressive Strength"
+      ]
+    },
+    {
+      "from": "Structural",
+      "to": "Spatial",
+      "relation": "shares_attributes",
+      "shared": [
+        "Clear Width",
+        "Area",
+        "Ceiling Height"
+      ]
+    },
+    {
+      "from": "Structural",
+      "to": "Safety",
+      "relation": "shares_attributes",
+      "shared": [
+        "Spacing"
+      ]
+    },
+    {
+      "from": "Structural",
+      "to": "Driveway",
+      "relation": "shares_attributes",
+      "shared": [
+        "Clear Width"
+      ]
+    },
+    {
+      "from": "Structural",
+      "to": "Electrical",
+      "relation": "shares_attributes",
+      "shared": [
+        "Diameter",
+        "Spacing"
+      ]
+    },
+    {
+      "from": "Structural",
+      "to": "Plumbing",
+      "relation": "shares_attributes",
+      "shared": [
+        "Diameter"
+      ]
+    },
+    {
+      "from": "Structural",
+      "to": "Waterproofing",
+      "relation": "shares_attributes",
+      "shared": [
+        "Dry Film Thickness"
+      ]
+    },
+    {
+      "from": "Structural",
+      "to": "Flooring",
+      "relation": "shares_attributes",
+      "shared": [
+        "Layer Thickness"
+      ]
+    },
+    {
+      "from": "Structural",
+      "to": "Road Drainage",
+      "relation": "shares_attributes",
+      "shared": [
+        "Spacing"
+      ]
+    },
+    {
+      "from": "Structural",
+      "to": "Temporary Facilities",
+      "relation": "shares_attributes",
+      "shared": [
+        "Area"
+      ]
+    },
+    {
+      "from": "Structural",
+      "to": "Documentation",
+      "relation": "shares_attributes",
+      "shared": [
+        "Scale"
+      ]
+    },
+    {
+      "from": "Concrete",
+      "to": "Earthwork",
+      "relation": "shares_attributes",
+      "shared": [
+        "Height"
+      ]
+    },
+    {
+      "from": "Concrete",
+      "to": "Plastering",
+      "relation": "shares_attributes",
+      "shared": [
+        "Deduction Threshold",
+        "Thickness",
+        "Mix Ratio"
+      ]
+    },
+    {
+      "from": "Concrete",
+      "to": "Masonry",
+      "relation": "shares_attributes",
+      "shared": [
+        "Deduction Threshold",
+        "Curing Duration",
+        "Thickness",
+        "Length",
+        "Height",
+        "Compressive Strength"
+      ]
+    },
+    {
+      "from": "Concrete",
+      "to": "Spatial",
+      "relation": "shares_attributes",
+      "shared": [
+        "Width"
+      ]
+    },
+    {
+      "from": "Concrete",
+      "to": "Safety",
+      "relation": "shares_attributes",
+      "shared": [
+        "Width",
+        "Depth",
+        "Height"
+      ]
+    },
+    {
+      "from": "Concrete",
+      "to": "Parking",
+      "relation": "shares_attributes",
+      "shared": [
+        "Width",
+        "Length"
+      ]
+    },
+    {
+      "from": "Concrete",
+      "to": "Electrical",
+      "relation": "shares_attributes",
+      "shared": [
+        "Cross-section",
+        "Thickness",
+        "Height",
+        "Length"
+      ]
+    },
+    {
+      "from": "Concrete",
+      "to": "Plumbing",
+      "relation": "shares_attributes",
+      "shared": [
+        "Application Rate",
+        "Slope",
+        "Width",
+        "Thickness",
+        "Depth",
+        "Height"
+      ]
+    },
+    {
+      "from": "Concrete",
+      "to": "Excavation",
+      "relation": "shares_attributes",
+      "shared": [
+        "Depth"
+      ]
+    },
+    {
+      "from": "Concrete",
+      "to": "Geotechnical",
+      "relation": "shares_attributes",
+      "shared": [
+        "Dry Density",
+        "Depth",
+        "Liquid Limit"
+      ]
+    },
+    {
+      "from": "Concrete",
+      "to": "Waterproofing",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness",
+        "Height",
+        "Dry Film Thickness"
+      ]
+    },
+    {
+      "from": "Concrete",
+      "to": "HVAC",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness"
+      ]
+    },
+    {
+      "from": "Concrete",
+      "to": "Acoustic",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness"
+      ]
+    },
+    {
+      "from": "Concrete",
+      "to": "Mortar Mix",
+      "relation": "shares_attributes",
+      "shared": [
+        "Mix Ratio"
+      ]
+    },
+    {
+      "from": "Concrete",
+      "to": "Flooring",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness"
+      ]
+    },
+    {
+      "from": "Concrete",
+      "to": "Finishing",
+      "relation": "shares_attributes",
+      "shared": [
+        "Curing Time"
+      ]
+    },
+    {
+      "from": "Concrete",
+      "to": "Pavement",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness",
+        "Grade"
+      ]
+    },
+    {
+      "from": "Concrete",
+      "to": "Bitumen",
+      "relation": "shares_attributes",
+      "shared": [
+        "Grade"
+      ]
+    },
+    {
+      "from": "Concrete",
+      "to": "Documentation",
+      "relation": "shares_attributes",
+      "shared": [
+        "Width",
+        "Height"
+      ]
+    },
+    {
+      "from": "Concrete",
+      "to": "Membrane",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness"
+      ]
+    },
+    {
+      "from": "Cost",
+      "to": "Plastering",
+      "relation": "shares_attributes",
+      "shared": [
+        "Unit Rate"
+      ]
+    },
+    {
+      "from": "Earthwork",
+      "to": "Masonry",
+      "relation": "shares_attributes",
+      "shared": [
+        "Height"
+      ]
+    },
+    {
+      "from": "Earthwork",
+      "to": "Safety",
+      "relation": "shares_attributes",
+      "shared": [
+        "Height"
+      ]
+    },
+    {
+      "from": "Earthwork",
+      "to": "Electrical",
+      "relation": "shares_attributes",
+      "shared": [
+        "Height"
+      ]
+    },
+    {
+      "from": "Earthwork",
+      "to": "Plumbing",
+      "relation": "shares_attributes",
+      "shared": [
+        "Height"
+      ]
+    },
+    {
+      "from": "Earthwork",
+      "to": "Waterproofing",
+      "relation": "shares_attributes",
+      "shared": [
+        "Height"
+      ]
+    },
+    {
+      "from": "Earthwork",
+      "to": "Flooring",
+      "relation": "shares_attributes",
+      "shared": [
+        "Layer Thickness"
+      ]
+    },
+    {
+      "from": "Earthwork",
+      "to": "Paving",
+      "relation": "shares_attributes",
+      "shared": [
+        "Compaction Density"
+      ]
+    },
+    {
+      "from": "Earthwork",
+      "to": "Documentation",
+      "relation": "shares_attributes",
+      "shared": [
+        "Height"
+      ]
+    },
+    {
+      "from": "Plastering",
+      "to": "Masonry",
+      "relation": "shares_attributes",
+      "shared": [
+        "Deduction Threshold",
+        "Thickness"
+      ]
+    },
+    {
+      "from": "Plastering",
+      "to": "Electrical",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness"
+      ]
+    },
+    {
+      "from": "Plastering",
+      "to": "Plumbing",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness"
+      ]
+    },
+    {
+      "from": "Plastering",
+      "to": "Waterproofing",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness"
+      ]
+    },
+    {
+      "from": "Plastering",
+      "to": "HVAC",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness"
+      ]
+    },
+    {
+      "from": "Plastering",
+      "to": "Acoustic",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness"
+      ]
+    },
+    {
+      "from": "Plastering",
+      "to": "Mortar Mix",
+      "relation": "shares_attributes",
+      "shared": [
+        "Mix Ratio"
+      ]
+    },
+    {
+      "from": "Plastering",
+      "to": "Flooring",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness"
+      ]
+    },
+    {
+      "from": "Plastering",
+      "to": "Pavement",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness"
+      ]
+    },
+    {
+      "from": "Plastering",
+      "to": "Membrane",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness"
+      ]
+    },
+    {
+      "from": "Masonry",
+      "to": "Safety",
+      "relation": "shares_attributes",
+      "shared": [
+        "Height"
+      ]
+    },
+    {
+      "from": "Masonry",
+      "to": "Parking",
+      "relation": "shares_attributes",
+      "shared": [
+        "Length"
+      ]
+    },
+    {
+      "from": "Masonry",
+      "to": "Electrical",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness",
+        "Height",
+        "Length"
+      ]
+    },
+    {
+      "from": "Masonry",
+      "to": "Plumbing",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness",
+        "Height"
+      ]
+    },
+    {
+      "from": "Masonry",
+      "to": "Waterproofing",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness",
+        "Height"
+      ]
+    },
+    {
+      "from": "Masonry",
+      "to": "HVAC",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness"
+      ]
+    },
+    {
+      "from": "Masonry",
+      "to": "Acoustic",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness"
+      ]
+    },
+    {
+      "from": "Masonry",
+      "to": "Flooring",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness"
+      ]
+    },
+    {
+      "from": "Masonry",
+      "to": "Pavement",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness"
+      ]
+    },
+    {
+      "from": "Masonry",
+      "to": "Documentation",
+      "relation": "shares_attributes",
+      "shared": [
+        "Height"
+      ]
+    },
+    {
+      "from": "Masonry",
+      "to": "Membrane",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness"
+      ]
+    },
+    {
+      "from": "Spatial",
+      "to": "Safety",
+      "relation": "shares_attributes",
+      "shared": [
+        "Width"
+      ]
+    },
+    {
+      "from": "Spatial",
+      "to": "Parking",
+      "relation": "shares_attributes",
+      "shared": [
+        "Width"
+      ]
+    },
+    {
+      "from": "Spatial",
+      "to": "Driveway",
+      "relation": "shares_attributes",
+      "shared": [
+        "Clear Width"
+      ]
+    },
+    {
+      "from": "Spatial",
+      "to": "Plumbing",
+      "relation": "shares_attributes",
+      "shared": [
+        "Width"
+      ]
+    },
+    {
+      "from": "Spatial",
+      "to": "Temporary Facilities",
+      "relation": "shares_attributes",
+      "shared": [
+        "Area"
+      ]
+    },
+    {
+      "from": "Spatial",
+      "to": "Documentation",
+      "relation": "shares_attributes",
+      "shared": [
+        "Width"
+      ]
+    },
+    {
+      "from": "Safety",
+      "to": "Parking",
+      "relation": "shares_attributes",
+      "shared": [
+        "Width"
+      ]
+    },
+    {
+      "from": "Safety",
+      "to": "Electrical",
+      "relation": "shares_attributes",
+      "shared": [
+        "Spacing",
+        "Height"
+      ]
+    },
+    {
+      "from": "Safety",
+      "to": "Plumbing",
+      "relation": "shares_attributes",
+      "shared": [
+        "Width",
+        "Depth",
+        "Height",
+        "Capacity"
+      ]
+    },
+    {
+      "from": "Safety",
+      "to": "Excavation",
+      "relation": "shares_attributes",
+      "shared": [
+        "Depth"
+      ]
+    },
+    {
+      "from": "Safety",
+      "to": "Geotechnical",
+      "relation": "shares_attributes",
+      "shared": [
+        "Depth",
+        "Ground water table depth"
+      ]
+    },
+    {
+      "from": "Safety",
+      "to": "Waterproofing",
+      "relation": "shares_attributes",
+      "shared": [
+        "Height"
+      ]
+    },
+    {
+      "from": "Safety",
+      "to": "Road Drainage",
+      "relation": "shares_attributes",
+      "shared": [
+        "Spacing"
+      ]
+    },
+    {
+      "from": "Safety",
+      "to": "Documentation",
+      "relation": "shares_attributes",
+      "shared": [
+        "Width",
+        "Height"
+      ]
+    },
+    {
+      "from": "Parking",
+      "to": "Electrical",
+      "relation": "shares_attributes",
+      "shared": [
+        "Length"
+      ]
+    },
+    {
+      "from": "Parking",
+      "to": "Plumbing",
+      "relation": "shares_attributes",
+      "shared": [
+        "Width"
+      ]
+    },
+    {
+      "from": "Parking",
+      "to": "Documentation",
+      "relation": "shares_attributes",
+      "shared": [
+        "Width"
+      ]
+    },
+    {
+      "from": "Electrical",
+      "to": "Plumbing",
+      "relation": "shares_attributes",
+      "shared": [
+        "Diameter",
+        "Thickness",
+        "Material",
+        "Clear Distance",
+        "Height"
+      ]
+    },
+    {
+      "from": "Electrical",
+      "to": "Waterproofing",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness",
+        "Height"
+      ]
+    },
+    {
+      "from": "Electrical",
+      "to": "HVAC",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness"
+      ]
+    },
+    {
+      "from": "Electrical",
+      "to": "Acoustic",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness"
+      ]
+    },
+    {
+      "from": "Electrical",
+      "to": "Wall Construction",
+      "relation": "shares_attributes",
+      "shared": [
+        "Wall Thickness"
+      ]
+    },
+    {
+      "from": "Electrical",
+      "to": "Flooring",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness"
+      ]
+    },
+    {
+      "from": "Electrical",
+      "to": "Pavement",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness"
+      ]
+    },
+    {
+      "from": "Electrical",
+      "to": "Road Drainage",
+      "relation": "shares_attributes",
+      "shared": [
+        "Spacing"
+      ]
+    },
+    {
+      "from": "Electrical",
+      "to": "Documentation",
+      "relation": "shares_attributes",
+      "shared": [
+        "Height"
+      ]
+    },
+    {
+      "from": "Electrical",
+      "to": "Membrane",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness"
+      ]
+    },
+    {
+      "from": "Plumbing",
+      "to": "Excavation",
+      "relation": "shares_attributes",
+      "shared": [
+        "Depth"
+      ]
+    },
+    {
+      "from": "Plumbing",
+      "to": "Geotechnical",
+      "relation": "shares_attributes",
+      "shared": [
+        "Depth"
+      ]
+    },
+    {
+      "from": "Plumbing",
+      "to": "Waterproofing",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness",
+        "Height"
+      ]
+    },
+    {
+      "from": "Plumbing",
+      "to": "HVAC",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness",
+        "Material Type"
+      ]
+    },
+    {
+      "from": "Plumbing",
+      "to": "Acoustic",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness"
+      ]
+    },
+    {
+      "from": "Plumbing",
+      "to": "Flooring",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness"
+      ]
+    },
+    {
+      "from": "Plumbing",
+      "to": "Pavement",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness"
+      ]
+    },
+    {
+      "from": "Plumbing",
+      "to": "Documentation",
+      "relation": "shares_attributes",
+      "shared": [
+        "Width",
+        "Height"
+      ]
+    },
+    {
+      "from": "Plumbing",
+      "to": "Membrane",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness"
+      ]
+    },
+    {
+      "from": "Excavation",
+      "to": "Geotechnical",
+      "relation": "shares_attributes",
+      "shared": [
+        "Depth"
+      ]
+    },
+    {
+      "from": "Waterproofing",
+      "to": "HVAC",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness"
+      ]
+    },
+    {
+      "from": "Waterproofing",
+      "to": "Acoustic",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness"
+      ]
+    },
+    {
+      "from": "Waterproofing",
+      "to": "Painting",
+      "relation": "shares_attributes",
+      "shared": [
+        "Coverage Rate"
+      ]
+    },
+    {
+      "from": "Waterproofing",
+      "to": "Flooring",
+      "relation": "shares_attributes",
+      "shared": [
+        "Coverage Rate",
+        "Thickness"
+      ]
+    },
+    {
+      "from": "Waterproofing",
+      "to": "Pavement",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness"
+      ]
+    },
+    {
+      "from": "Waterproofing",
+      "to": "Documentation",
+      "relation": "shares_attributes",
+      "shared": [
+        "Height"
+      ]
+    },
+    {
+      "from": "Waterproofing",
+      "to": "Membrane",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness"
+      ]
+    },
+    {
+      "from": "HVAC",
+      "to": "Acoustic",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness",
+        "Density"
+      ]
+    },
+    {
+      "from": "HVAC",
+      "to": "Flooring",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness"
+      ]
+    },
+    {
+      "from": "HVAC",
+      "to": "Pavement",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness"
+      ]
+    },
+    {
+      "from": "HVAC",
+      "to": "Membrane",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness"
+      ]
+    },
+    {
+      "from": "Acoustic",
+      "to": "Flooring",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness"
+      ]
+    },
+    {
+      "from": "Acoustic",
+      "to": "Pavement",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness"
+      ]
+    },
+    {
+      "from": "Acoustic",
+      "to": "Membrane",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness"
+      ]
+    },
+    {
+      "from": "Painting",
+      "to": "Paint Application",
+      "relation": "shares_attributes",
+      "shared": [
+        "Coat Count"
+      ]
+    },
+    {
+      "from": "Painting",
+      "to": "Flooring",
+      "relation": "shares_attributes",
+      "shared": [
+        "Coverage Rate"
+      ]
+    },
+    {
+      "from": "Flooring",
+      "to": "Pavement",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness"
+      ]
+    },
+    {
+      "from": "Flooring",
+      "to": "Membrane",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness"
+      ]
+    },
+    {
+      "from": "Pavement",
+      "to": "Bitumen",
+      "relation": "shares_attributes",
+      "shared": [
+        "Grade"
+      ]
+    },
+    {
+      "from": "Pavement",
+      "to": "Membrane",
+      "relation": "shares_attributes",
+      "shared": [
+        "Thickness"
+      ]
+    },
+    {
+      "from": "Structural",
+      "to": "Clear Width",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Weight Tolerance",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Volume Ratio (V_h / V_c)",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Application Time",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Differential settlement",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Stabilization Method",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Binding Wire Allowance",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Dry Film Thickness",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Slenderness Ratio",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "General Text Height",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Spacing",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Re-bending angle",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Maximum deflection",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Beam Depth",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Steel density",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Reinforcement Percentage",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Maximum Percentage of Longitudinal Tension Reinforcement",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Area",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Minimum design eccentricity",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Helical Tie Pitch (Maximum)",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Revision Symbol Height",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Maximum Percentage of Longitudinal Compression Reinforcement",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Platform Width (General Access)",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Extension Distance",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Lap Length",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Minimum reinforcement percentage",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Width-to-Depth Ratio",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Riser Height",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "TS/YS Ratio",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Straight Extension Length",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Effective Span to Effective Depth Ratio",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Bend Diameter",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Slab Edge Strip Width",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Span-to-Depth Ratio",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Minimum Bar Count",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Minimum cross-sectional area",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Distribution Steel Percentage",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Elevation Accuracy",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Compression Lap Length",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Diameter",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Membrane Thickness",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Maximum Spacing of Side Face Reinforcement",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Web Width",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "End bearing length",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Long-term deflection",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Clear distance between longitudinal bars",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Main Tension Reinforcement Percentage",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "DFT",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Post-Erection Deflection",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Ground water rise elevation",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Minimum Area of Tension Reinforcement",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Minimum Area of Side Face Reinforcement",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Total allowable settlement",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Stirrup Configuration",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Percentage Elongation",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Waterstop Width",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Fire Resistance Rating",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Aggregate Impact Value",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Compressive Strength",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Scale",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Ceiling Height",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Clear spacing",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Slab Middle Strip Width",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Skin friction resistance",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Major Title Text Height",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Layer Thickness",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Nominal Dimensions",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Final Deflection",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Tread Depth",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Tension Lap Length",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Waterstop Section",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Platform Width (Heavy Storage)",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Cross-sectional dimension ratio",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Main Reinforcement Percentage",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Slenderness ratio",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Reinforcement steel tonnage",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Shading/Hatching",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Clear horizontal distance",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Helical Tie Pitch (Minimum)",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Anchor Bolt Spacing Tolerance",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Minimum Shear Reinforcement Area per Unit Spacing",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Linear Dimension Tolerance",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Front Setback",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Rear Setback",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Maximum Tie Spacing",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Concentration",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Prefix",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Waterstop Thickness",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Condition for Side Face Reinforcement",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Tread Width",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Tie Type",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural",
+      "to": "Compacted Thickness",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Dry Density",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Application Rate",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Clear cover to lateral ties",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Bearing Length",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Radius",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Thickness",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Clear concrete cover tolerance",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Clear concrete cover",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Mix Ratio",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Yield Strength",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Stripping Time",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Slump",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Volume",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "GGBS Substitution",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Admixture Type",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Length",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Crack width",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Span-to-overall-depth ratio (L/D)",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Moisture Content",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Dimension Tolerance",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Groove Width",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Hatching Spacing",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Curing Duration",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Projection",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Quantity Rate",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Curing Time",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Dry Film Thickness",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Material Grade",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Curing Start Time",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Placement Level",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Height",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Offset",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Clear cover",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Deduction Threshold",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Cementitious material content",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Slope",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Water-Cement Ratio",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Width",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Span-to-effective-depth ratio",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Clear distance tolerance",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Extension Width",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Plasticity Index",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Water-cement ratio",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Superplasticizer Dosage",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Fly Ash Substitution",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Compressive Strength",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Hatching Angle",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Cement Type",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Excavation Width",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Mixing time",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Temperature",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Cross-section",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Depth",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Grade",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Minimum Cross-Sectional Dimension",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "pH Value",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Liquid Limit",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Groove Depth",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Cement Content",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Tolerance on specified concrete cover dimensions",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Cement content",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Cover Depth",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "7-day Compressive Strength",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Concrete",
+      "to": "Span-to-effective-depth ratio (L/d)",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Measurement",
+      "to": "Void Size",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Cost",
+      "to": "Unit Rate",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Earthwork",
+      "to": "Lift Thickness",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Earthwork",
+      "to": "Payment Depth Staging Interval",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Earthwork",
+      "to": "Compaction",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Earthwork",
+      "to": "Measurement Unit",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Earthwork",
+      "to": "Roller Weight",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Earthwork",
+      "to": "Layer Thickness",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Earthwork",
+      "to": "Compaction Density",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Earthwork",
+      "to": "Height",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Earthwork",
+      "to": "Number of Passes",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Plastering",
+      "to": "Deduction Threshold",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Plastering",
+      "to": "Thickness",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Plastering",
+      "to": "Mix Ratio",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Plastering",
+      "to": "Unit Rate",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Masonry",
+      "to": "Deduction Threshold",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Masonry",
+      "to": "Head Joint Overlap",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Masonry",
+      "to": "Thickness",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Masonry",
+      "to": "Curing Duration",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Masonry",
+      "to": "Length",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Masonry",
+      "to": "Joint Thickness",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Masonry",
+      "to": "Height",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Masonry",
+      "to": "Bond Pattern",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Masonry",
+      "to": "Compressive Strength",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural Steel",
+      "to": "Weight Basis",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural Steel",
+      "to": "Welding and Bolt Allowance",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural Steel",
+      "to": "Measurement Basis",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Spatial",
+      "to": "Clear Width",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Spatial",
+      "to": "Ceiling Height",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Spatial",
+      "to": "Width",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Spatial",
+      "to": "Floor Area",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Spatial",
+      "to": "Area",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Safety",
+      "to": "Backfill Material",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Safety",
+      "to": "Impact Force Resistance",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Safety",
+      "to": "Fire Watch Duration",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Safety",
+      "to": "Maximum Walking Distance",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Safety",
+      "to": "Travel Distance",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Safety",
+      "to": "Fire extinguisher mounting height (maximum)",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Safety",
+      "to": "Distance",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Safety",
+      "to": "Quantity",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Safety",
+      "to": "Ground water table depth",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Safety",
+      "to": "Warning tape",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Safety",
+      "to": "Closing Force",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Safety",
+      "to": "Depth Threshold",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Safety",
+      "to": "Capacity",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Safety",
+      "to": "Coverage Ratio",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Safety",
+      "to": "Clear Passage Width",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Safety",
+      "to": "Spacing",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Safety",
+      "to": "Height",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Safety",
+      "to": "Clearance Distance",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Safety",
+      "to": "Head-room",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Safety",
+      "to": "Width",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Safety",
+      "to": "Dead-end corridor length",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Safety",
+      "to": "Noise Exposure Level",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Safety",
+      "to": "Threshold Area",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Safety",
+      "to": "Power Duration",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Safety",
+      "to": "Headroom",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Safety",
+      "to": "Inspection Trigger",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Safety",
+      "to": "Height-to-Base Ratio",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Safety",
+      "to": "Height Threshold",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Safety",
+      "to": "Lateral travel distance",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Safety",
+      "to": "PPE Type",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Safety",
+      "to": "Handrail Height",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Safety",
+      "to": "Inspection Frequency",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Safety",
+      "to": "Vest Class",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Safety",
+      "to": "Maximum travel distance to fire extinguisher",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Safety",
+      "to": "Depth",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Safety",
+      "to": "Fire extinguisher mounting height (minimum)",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Safety",
+      "to": "Type",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Safety",
+      "to": "Static Load Capacity",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Safety",
+      "to": "Inclination Angle",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Safety",
+      "to": "Illumination Level",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Site Planning",
+      "to": "Ground coverage",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Site Planning",
+      "to": "Floor Area Ratio (FAR)",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Site Planning",
+      "to": "Side setbacks",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Parking",
+      "to": "Width",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Parking",
+      "to": "Parking rate",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Parking",
+      "to": "Length",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Driveway",
+      "to": "Clear Width",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Electrical",
+      "to": "Diameter",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Electrical",
+      "to": "Dust Arrestance",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Electrical",
+      "to": "Thickness",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Electrical",
+      "to": "Ground Loop Resistance",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Electrical",
+      "to": "Clear Distance",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Electrical",
+      "to": "Length",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Electrical",
+      "to": "Current Rating",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Electrical",
+      "to": "Conductor Cross-Sectional Area",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Electrical",
+      "to": "Voltage Drop",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Electrical",
+      "to": "Trip Sensitivity",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Electrical",
+      "to": "SWG",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Electrical",
+      "to": "Spacing",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Electrical",
+      "to": "Height",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Electrical",
+      "to": "Outer Diameter",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Electrical",
+      "to": "Conductor Size",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Electrical",
+      "to": "Wall Thickness",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Electrical",
+      "to": "Soil electrical resistivity",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Electrical",
+      "to": "Fill Ratio",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Electrical",
+      "to": "Location Clearance",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Electrical",
+      "to": "Dimensions",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Electrical",
+      "to": "ePM1 Efficiency",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Electrical",
+      "to": "IP Rating",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Electrical",
+      "to": "Filter Rating",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Electrical",
+      "to": "Cross-section",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Electrical",
+      "to": "Material",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Electrical",
+      "to": "Internal Diameter",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Electrical",
+      "to": "Short-circuit Breaking Capacity",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Electrical",
+      "to": "Tripping Current",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Lighting",
+      "to": "Illuminance",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Lighting",
+      "to": "Light Intensity",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Lighting",
+      "to": "Measurement Height",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Lighting",
+      "to": "Light Level",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Plumbing",
+      "to": "Pressure",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Plumbing",
+      "to": "Diameter",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Plumbing",
+      "to": "Total suspended solids (TSS)",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Plumbing",
+      "to": "Application Rate",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Plumbing",
+      "to": "Thickness",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Plumbing",
+      "to": "Clear Space",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Plumbing",
+      "to": "Pipe Stiffness Class",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Plumbing",
+      "to": "Clear Distance",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Plumbing",
+      "to": "Liquid Seal Depth",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Plumbing",
+      "to": "Working Pressure",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Plumbing",
+      "to": "Capacity",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Plumbing",
+      "to": "Extension Length",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Plumbing",
+      "to": "Height",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Plumbing",
+      "to": "Pressure Rating",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Plumbing",
+      "to": "Slope",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Plumbing",
+      "to": "Width",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Plumbing",
+      "to": "Operating Temperature",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Plumbing",
+      "to": "Flow Velocity",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Plumbing",
+      "to": "Material Type",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Plumbing",
+      "to": "Static Pressure",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Plumbing",
+      "to": "Water Seal Depth",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Plumbing",
+      "to": "Sedimentation basin retention time",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Plumbing",
+      "to": "Offset Angle",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Plumbing",
+      "to": "Filter Aggregate Thickness",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Plumbing",
+      "to": "Depth",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Plumbing",
+      "to": "Material",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Plumbing",
+      "to": "Centerline Spacing",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Excavation",
+      "to": "Depth",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Excavation",
+      "to": "Side Slope Inclination",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Geotechnical",
+      "to": "Dry Density",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Geotechnical",
+      "to": "Safe Bearing Capacity",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Geotechnical",
+      "to": "Total Allowable Settlement",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Geotechnical",
+      "to": "Depth range",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Geotechnical",
+      "to": "Corrected SPT N-value",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Geotechnical",
+      "to": "Soil Classification",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Geotechnical",
+      "to": "Depth",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Geotechnical",
+      "to": "Liquid Limit",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Geotechnical",
+      "to": "Ground water table depth",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Geotechnical",
+      "to": "Fines content",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Geotechnical",
+      "to": "Soil organic content",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Geotechnical",
+      "to": "SPT N-value",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Geotechnical",
+      "to": "Ultimate Bearing Capacity",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Waterproofing",
+      "to": "Test Duration",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Waterproofing",
+      "to": "Thickness",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Waterproofing",
+      "to": "Dry Film Thickness",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Waterproofing",
+      "to": "Coverage Rate",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Waterproofing",
+      "to": "Ponding Depth",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Waterproofing",
+      "to": "Height",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Waterproofing",
+      "to": "Number of Coats",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "HVAC",
+      "to": "Particle Size",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "HVAC",
+      "to": "Thickness",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "HVAC",
+      "to": "Design Conditions",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "HVAC",
+      "to": "Air Velocity",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "HVAC",
+      "to": "Thermal Load",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "HVAC",
+      "to": "Material Type",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "HVAC",
+      "to": "Overall Capacity",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "HVAC",
+      "to": "COP",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "HVAC",
+      "to": "Density",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "HVAC",
+      "to": "Filtration Efficiency",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Mechanical",
+      "to": "Velocity",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Mechanical",
+      "to": "Supply Temperature",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Mechanical",
+      "to": "Mechanical exhaust ventilation rate",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Mechanical",
+      "to": "Fresh air supply rate",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Mechanical",
+      "to": "Ventilation Rate",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Acoustics",
+      "to": "Noise Level",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Acoustic",
+      "to": "Thickness",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Acoustic",
+      "to": "Density",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Environmental",
+      "to": "Temperature Threshold",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Wall Construction",
+      "to": "Wall Thickness",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Reinforcement",
+      "to": "Main Bar Prefix",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Reinforcement",
+      "to": "Bar Diameter",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Reinforcement",
+      "to": "Lap Splice Proportion",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Reinforcement",
+      "to": "Shape Code Standard",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Reinforcement",
+      "to": "Lap Splice Location Distance",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Reinforcement",
+      "to": "Bar Quantity",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Reinforcement",
+      "to": "Callout Format",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Mortar Mix",
+      "to": "Mix Ratio",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Reinforcement Placement",
+      "to": "Vertical Spacing",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Structural Element",
+      "to": "Sill Band Thickness",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Placement Location",
+      "to": "Elevation",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Painting",
+      "to": "Color Code Standard",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Painting",
+      "to": "Dry film thickness",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Painting",
+      "to": "Color Variation",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Painting",
+      "to": "Drying Time",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Painting",
+      "to": "Re-coat Interval",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Painting",
+      "to": "Ambient Temperature",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Painting",
+      "to": "Coat Count",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Painting",
+      "to": "Coverage Rate",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Painting",
+      "to": "Number of coats",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Painting",
+      "to": "Application Sequence",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Painting",
+      "to": "Primer Type",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Surface Preparation",
+      "to": "Cleanliness Rating",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Paint Application",
+      "to": "Coat Count",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Flooring",
+      "to": "Coverage Rate",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Flooring",
+      "to": "Thickness",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Flooring",
+      "to": "Coating Type",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Flooring",
+      "to": "Layer Thickness",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Finishing",
+      "to": "Curing Time",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Pavement",
+      "to": "Tack coat application rate",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Pavement",
+      "to": "Superelevation Rate",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Pavement",
+      "to": "Bitumen binder content",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Pavement",
+      "to": "Thickness",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Pavement",
+      "to": "Grade",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Pavement",
+      "to": "CBR Value",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Pavement",
+      "to": "Cross-fall Slope",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Pavement",
+      "to": "Transverse Camber",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Aggregates",
+      "to": "Water absorption",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Aggregates",
+      "to": "Flakiness and Elongation Index",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Bitumen",
+      "to": "Grade",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Paving",
+      "to": "Compaction Density",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Paving",
+      "to": "Rolling Temperature",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Paving",
+      "to": "Laying Temperature",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Road Drainage",
+      "to": "Longitudinal Gradient",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Road Drainage",
+      "to": "Spacing",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Site Preparation",
+      "to": "Topsoil stripping depth",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Site Preparation",
+      "to": "Ground clearance area",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Survey",
+      "to": "Positioning tolerance",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Survey",
+      "to": "Minimum number of benchmarks",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Temporary Facilities",
+      "to": "Area",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Foundation",
+      "to": "Settlement",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Testing",
+      "to": "Frequency",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Soil Properties",
+      "to": "Soluble sulfate content",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Soil Properties",
+      "to": "pH value",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Mechanical Couplers",
+      "to": "Development Strength",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Documentation",
+      "to": "Scale",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Documentation",
+      "to": "Location",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Documentation",
+      "to": "Field Count",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Documentation",
+      "to": "Top margin",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Documentation",
+      "to": "Width",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Documentation",
+      "to": "Bottom margin",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Documentation",
+      "to": "Vertical Scale",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Documentation",
+      "to": "Right margin",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Documentation",
+      "to": "Left margin",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Documentation",
+      "to": "Horizontal Scale",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Documentation",
+      "to": "Height",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Membrane",
+      "to": "End Lap Overlap",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Membrane",
+      "to": "Thickness",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Membrane",
+      "to": "Side Lap Overlap",
+      "relation": "has_attribute"
+    },
+    {
+      "from": "Membrane",
+      "to": "Penetration Overlap",
+      "relation": "has_attribute"
+    }
+  ]
+}

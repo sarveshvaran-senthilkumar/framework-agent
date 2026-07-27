@@ -1,0 +1,30 @@
+CONSTRUCTION SITE SAFETY MANUAL - SECTION 1000: HEALTH, SAFETY AND ENVIRONMENT (HSE)
+
+1.0 PERSONAL PROTECTIVE EQUIPMENT (PPE)
+1.1 All site personnel and visitors must wear industrial safety helmets conforming to IS 2925 at all times within active construction zones.
+1.2 Workers operating at heights exceeding 2.0 meters above ground level shall wear full-body safety harnesses equipped with dual lanyards and shock absorbers complying with IS 3521.
+1.3 Safety harness anchorage points shall be capable of sustaining a minimum static load of at least 22 kN (2,250 kg) per connected worker.
+1.4 High-visibility reflective safety vests complying with Class 2 retroreflective standards must be worn by all site personnel.
+1.5 Steel toe-cap safety boots with anti-puncture mid-soles capable of withstanding minimum 200 Joules impact force shall be worn by all active site workers.
+1.6 Ear defenders or earplugs must be provided and worn in areas where continuous noise exposure levels exceed a maximum threshold of 85 dBA.
+
+2.0 SCAFFOLDING AND WORK AT HEIGHTS
+2.1 All tubular steel scaffolding structures shall be inspected by a competent safety officer at least once every 7 days and after any adverse weather event.
+2.2 Scaffold platform working decks shall have a clear minimum width of at least 600 millimeters for general access, and 900 mm for heavy material storage.
+2.3 Guardrails on scaffold working platforms shall consist of a top rail mounted at a height of minimum 1.0 meter to maximum 1.15 meters above the deck.
+2.4 An intermediate mid-rail must be installed at a height of 500 millimeters above the platform surface.
+2.5 Scaffold toe-boards with a minimum vertical height of at least 150 millimeters shall be installed along all open edges of working platforms.
+2.6 Access ladders on scaffolding towers shall be inclined at an angle of 75 degrees to the horizontal (4:1 height-to-base ratio).
+
+3.0 EXCAVATION AND TRENCH SAFETY
+3.1 Excavation pits or trenches exceeding a depth of 1.5 meters must be provided with certified shoring, benching, or sloping systems.
+3.2 Excavated soil spoils and heavy construction machinery shall be set back at a minimum clear distance of at least 1.5 meters from the excavation trench edge.
+3.3 Trench ladders or ramps for egress shall be provided within a maximum lateral travel distance of not more than 7.5 meters for workers in trenches.
+3.4 Heavy rigid safety barricades of minimum height 1.0 meter with yellow/black reflective warning tape shall encircle all open excavation pits.
+
+4.0 FIRE PROTECTION AND FIRST AID
+4.1 Portable ABC dry chemical powder fire extinguishers of minimum 6.0 kg capacity shall be positioned at a maximum walking distance of not more than 15 meters from any point on active floors.
+4.2 At least one portable 4.5 kg CO2 fire extinguisher shall be installed adjacent to main electrical distribution panels.
+4.3 Every site work zone shall maintain a fully stocked first aid kit capable of treating at least 20 workers per 50-person crew block.
+4.4 Hot work permits must be issued for all welding and cutting operations, requiring a mandatory fire watch officer for a minimum of 30 minutes following completion of work.
+4.5 Emergency evacuation route signage with emergency lighting shall be maintained along all corridors with a minimum clear passage width of at least 1.2 meters.

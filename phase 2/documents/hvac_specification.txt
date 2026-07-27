@@ -1,0 +1,40 @@
+PROJECT SPECIFICATION: HEATING, VENTILATION AND AIR CONDITIONING (HVAC)
+SECTION 23 00 00 - HVAC SYSTEM DESIGN & PERFORMANCE REQUIREMENTS
+STANDARD COMPLIANCE: ISHRAE / ASHRAE 62.1 / NBC 2016 PART 8
+
+1. DUCTWORK AIR VELOCITY LIMITS
+Clause 1.1: Air velocity in main supply duct headers shall not exceed 7.5 meters per second (1500 fpm).
+Clause 1.2: Air velocity in branch ducts serving conditioned spaces shall be maintained at a maximum of 4.0 meters per second (800 fpm).
+Clause 1.3: Duct return air velocity shall not exceed 5.0 meters per second (1000 fpm).
+Clause 1.4: Acoustic liner face velocity inside supply ducts shall not exceed 10.0 meters per second.
+
+2. FRESH AIR VENTILATION RATES
+Clause 2.1: Fresh air supply for general office spaces shall be at least 10.0 CFM per person (5.0 L/s/person) in accordance with ASHRAE 62.1 standards.
+Clause 2.2: Fresh air supply for conference rooms and meeting spaces shall be a minimum of 15.0 CFM per person (7.5 L/s/person).
+Clause 2.3: Restroom mechanical exhaust ventilation shall maintain a minimum rate of 50.0 CFM per water closet fixture.
+
+3. INDOOR THERMAL COMFORT CONDITIONS
+Clause 3.1: Indoor design dry bulb temperature during summer peak cooling shall be maintained within the range of 23.0°C to 25.0°C.
+Clause 3.2: Indoor relative humidity in conditioned spaces shall be maintained within a minimum of 40% and a maximum of 60%.
+Clause 3.3: Temperature variation across any horizontal plane within conditioned zones shall not exceed ±1.0°C.
+
+4. EQUIPMENT AND DUCT INSULATION
+Clause 4.1: Chilled water piping insulation shall have a minimum thickness of 25 mm closed-cell nitrile rubber foam.
+Clause 4.2: Exposed roof-mounted HVAC supply air ducts shall be insulated with a minimum thickness of 50 mm rockwool insulation (minimum density 48 kg/m³).
+Clause 4.3: Air handling unit (AHU) internal supply duct insulation shall have a minimum thickness of 19 mm elastomeric foam.
+Clause 4.4: Condensate drain pipe insulation shall have a minimum thickness of 13 mm elastomeric foam.
+
+5. AIR FILTRATION SPECIFICATIONS
+Clause 5.1: Primary AHU filtration shall utilize MERV 8 pre-filters with a minimum initial dust arrestance of 65%.
+Clause 5.2: Secondary AHU filtration for office floors shall utilize MERV 13 fine filters with a minimum ePM1 efficiency of 50%.
+Clause 5.3: HEPA filters installed in cleanrooms or critical spaces shall achieve a minimum filtration efficiency of 99.97% for 0.3-micron particles.
+
+6. CHILLER PLANT PERFORMANCE
+Clause 6.1: Air-cooled chiller plant overall capacity shall be rated for a minimum of 150 TR at standard AHRI design conditions.
+Clause 6.2: Water-cooled centrifugal chiller COP (Coefficient of Performance) shall be at least 5.8 at 100% full thermal load.
+Clause 6.3: Chilled water supply temperature leaving the chiller evaporator shall be maintained at 6.7°C ± 0.5°C.
+
+7. NOISE AND ACOUSTIC CONTROL
+Clause 7.1: Maximum allowable noise level inside open-plan executive offices shall not exceed NC-35 (approx. 40 dBA).
+Clause 7.2: Maximum allowable noise level inside conference rooms shall not exceed NC-30 (approx. 35 dBA).
+Clause 7.3: Acoustic lining inside supply ductwork within 3.0 meters of AHU outlet shall have a minimum thickness of 25 mm glass wool (48 kg/m³ density).

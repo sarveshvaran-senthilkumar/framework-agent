@@ -1,0 +1,36 @@
+NATIONAL BUILDING CODE COMPLIANCE SPECIFICATION - SECTION 100: GENERAL BUILDING REQUIREMENTS
+
+1.0 SCOPE AND APPLICABILITY
+This specification defines the minimum dimensional, structural, and environmental standards for residential and commercial building construction in accordance with NBC 2016.
+
+2.0 HABITABLE ROOM DIMENSIONS
+2.1 The clear ceiling height for all habitable rooms shall be a minimum of 2.75 meters, measured from the finished floor surface to the lowest point of the ceiling slab.
+2.2 The minimum area of any single habitable room in a residential building shall not be less than 9.5 square meters.
+2.3 The minimum width of any habitable room shall be at least 2.4 meters.
+2.4 Kitchen areas shall have a minimum floor area of at least 5.0 square meters with a minimum clear width of 1.8 meters.
+2.5 The height of kitchen ceilings shall be a minimum of 2.6 meters from finished floor level.
+
+3.0 LIGHTING AND VENTILATION
+3.1 Every habitable room shall feature aggregate opening/window areas of not less than 10 percent of the total floor area.
+3.2 Water closets and bathrooms shall have a minimum window or ventilator area of at least 0.37 square meters opening directly to external air or light shaft.
+3.3 The minimum cross-sectional area of any vertical ventilation shaft serving bathrooms shall not be less than 1.2 square meters, with a minimum dimension of 0.9 meters.
+
+4.0 CIRCULATION AND STAIRCASE DESIGN
+4.1 The minimum clear width of staircases in residential buildings shall be at least 1.0 meter.
+4.2 For commercial and public assembly buildings, the staircase clear width shall not be less than 1.5 meters.
+4.3 The maximum riser height for residential staircases shall not exceed 150 millimeters.
+4.4 The minimum tread width for residential staircases shall be at least 250 millimeters, exclusive of nosing.
+4.5 Handrails shall be provided at a minimum height of 900 millimeters measured vertically from the center of the tread.
+4.6 The clear head-room measured vertically above any staircase tread landing shall be a minimum of 2.2 meters.
+
+5.0 SETBACKS AND SITE PLANNING
+5.1 The minimum front setback for buildings up to 12 meters in height shall be at least 3.0 meters from the property boundary line.
+5.2 The minimum rear setback shall not be less than 2.0 meters for building heights up to 10 meters.
+5.3 Side setbacks shall be a minimum of 1.5 meters on each side for detached residential structures.
+5.4 The Floor Area Ratio (FAR) for standard residential plots shall not exceed 2.25.
+5.5 Ground coverage for residential plots above 500 square meters shall not exceed maximum 60 percent of total plot area.
+
+6.0 PARKING PROVISIONS
+6.1 Off-street parking shall be provided at a minimum rate of 1 Equivalent Car Space (ECS) per 80 square meters of residential carpet area.
+6.2 The minimum dimensions for a standard car parking bay shall be at least 2.5 meters in width by 5.0 meters in length.
+6.3 Driveways providing access to parking bays shall maintain a minimum clear width of 3.5 meters for one-way traffic and at least 6.0 meters for two-way traffic.

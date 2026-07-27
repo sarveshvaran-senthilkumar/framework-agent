@@ -1,0 +1,36 @@
+BILL OF QUANTITIES (BOQ) AND MEASUREMENT SPECIFICATIONS
+SECTION 01 20 00 - PRICE SCHEDULE AND QUANTITY MEASUREMENT RULES
+STANDARD COMPLIANCE: IS 1200 (PARTS 1 TO 28) / IS 456
+
+1. CONCRETE QUANTITY AND MEASUREMENT
+Clause 1.1: Concrete quantity for ground floor slab and beams (M30 grade) shall be estimated at a minimum rate of 0.25 m³ per square meter of built-up area.
+Clause 1.2: Concrete volume calculations shall follow IS 1200 Part 2 standards and shall exclude deductions for openings smaller than 0.1 m².
+Clause 1.3: Reinforced concrete volume for upper typical floor columns (M40 grade) is measured at exactly 42.5 m³ per floor level.
+Clause 1.4: Plain cement concrete (PCC M10 grade) levelling pad under footings shall have a minimum nominal thickness of 100 mm and extend 100 mm beyond footing edges.
+
+2. REINFORCEMENT STEEL TONNAGE AND WEIGHT CALCULATIONS
+Clause 2.1: Reinforcement steel tonnage for structural floor elements shall be estimated at a minimum of 110 kg per cubic meter of concrete for beams and slabs.
+Clause 2.2: Heavy structural columns and shear walls steel density shall be calculated at a minimum rate of 160 kg per cubic meter of concrete.
+Clause 2.3: Lap length for High Yield Strength Deformed (HYSD Fe500D) steel bars shall be measured as a minimum of 50 times the bar diameter (50d).
+Clause 2.4: Steel rebar weight measurements per IS 1200 Part 8 shall be derived using standard unit weight formula (d²/162 kg/m) within ±2.5% rolling tolerance.
+Clause 2.5: Binding wire allowance added to rebar schedules shall not exceed 10 kg per metric tonne of steel reinforcement.
+
+3. FORMWORK AREA AND UNIT RATES
+Clause 3.1: Formwork area for slab bottoms shall be measured in square meters per IS 1200 Part 5, deducting voids larger than 0.4 m².
+Clause 3.2: Plywood formwork unit rate for soffits and beam sides shall be fixed at a maximum rate of INR 450 per square meter of contact area.
+Clause 3.3: Column shuttering formwork rate shall be evaluated at a rate of INR 520 per square meter based on 6-time reusability factor.
+Clause 3.4: Minimum stripping time for beam soffit formwork (spans under 6.0 m) shall be at least 14 days after concrete placement.
+
+4. EARTHWORK MEASUREMENT STANDARDS
+Clause 4.1: Excavation measurement in foundation trenches shall be recorded in cubic meters measured net without allowance for bulking per IS 1200 Part 1.
+Clause 4.2: Maximum payment depth staging interval for earth excavation in deep trenches shall be taken as 1.5 meters per lift.
+Clause 4.3: Authorized extra excavation width for working space around footings shall not exceed 300 mm from outer concrete face.
+
+5. PLASTERING AND MASONRY MEASUREMENT
+Clause 5.1: Plastering work shall be measured in square meters per IS 1200 Part 12, making no deduction for wall openings under 0.5 m².
+Clause 5.2: Internal 12 mm thick cement plaster (1:4 mix) unit rate is established at a maximum of INR 180 per square meter.
+Clause 5.3: Masonry wall measurement per IS 1200 Part 3 shall deduct full volume of lintels, beams, and openings exceeding 0.1 m².
+
+6. STRUCTURAL STEEL FABRICATION MEASUREMENT
+Clause 6.1: Structural steel fabrication measurement shall be taken by mass in metric tonnes (MT) per IS 1200 Part 8 based on nominal sectional weights.
+Clause 6.2: Structural steel welding run and bolt mass shall be added as a maximum allowance of 3% of net structural steel weight.

@@ -1,0 +1,40 @@
+PROJECT SPECIFICATION: ROAD CONSTRUCTION AND PAVEMENT DESIGN
+SECTION 32 10 00 - FLEXIBLE AND RIGID PAVEMENTS
+STANDARD COMPLIANCE: IRC 37 / IRC 58 / MORTH SPECIFICATIONS / IS 73
+
+1. GRANULAR SUB-BASE (GSB) LAYER
+Clause 1.1: Granular Sub-Base (GSB) layer shall have a minimum compacted thickness of 150 mm conforming to MoRTH Grade-I specifications.
+Clause 1.2: Minimum California Bearing Ratio (CBR) value for Granular Sub-Base material at 98% compaction shall not be less than 30%.
+Clause 1.3: Maximum liquid limit of GSB fines passing 425-micron sieve shall not exceed 25%, and plasticity index must not exceed 6.0%.
+
+2. BASE COURSE SPECIFICATIONS
+Clause 2.1: Wet Mix Macadam (WMM) base course shall be laid in two layers with a minimum total compacted thickness of 250 mm (125 mm per layer).
+Clause 2.2: Aggregate Impact Value (AIV) for WMM base course aggregates shall not exceed 30% per IS 2386 Part 4.
+Clause 2.3: Flakiness and Elongation Index of base course aggregates combined shall not exceed 35%.
+Clause 2.4: Water absorption of coarse aggregates used in base course must not exceed 2.0%.
+
+3. BITUMEN GRADES AND SURFACING
+Clause 3.1: Bituminous Macadam (BM) binder course shall utilize Viscosity Grade VG-30 bitumen per IS 73 specifications.
+Clause 3.2: Dense Bituminous Concrete (DBC) wearing coat shall have a minimum compacted thickness of 50 mm.
+Clause 3.3: Bitumen binder content in DBC wearing surface layer shall be a minimum of 5.2% by weight of total mix.
+Clause 3.4: Bituminous tack coat application rate over primed base course shall be maintained between 0.20 and 0.25 kg/m².
+
+4. COMPACTION AND TEMPERATURE CONTROL
+Clause 4.1: Earth subgrade layer compaction shall achieve a minimum of 97% of Maximum Dry Density (MDD) determined by modified Proctor test (IS 2720 Part 8).
+Clause 4.2: Bituminous layer field compaction density shall be a minimum of 98% of the laboratory Marshall specimen density.
+Clause 4.3: Rolling temperature for VG-30 bituminous mix during breakdown rolling shall be maintained between 140°C and 160°C.
+Clause 4.4: Laying temperature of bituminous mix at paver hopper shall not be less than 130°C.
+
+5. CAMBER AND CROSS-SLOPE GRADIENTS
+Clause 5.1: Carriageway transverse camber for flexible asphalt pavement on straight sections shall be set at 2.5% ± 0.2%.
+Clause 5.2: Maximum superelevation rate on horizontal curve sections shall not exceed 7.0% per IRC 37 guidelines.
+Clause 5.3: Road shoulder cross-fall slope shall be maintained at 3.5% toward outer roadside ditches.
+
+6. KERB DIMENSIONS AND CONCRETE STRENGTH
+Clause 6.1: Precast concrete road kerb units shall have standard dimensions of 300 mm height, 150 mm width, and 450 mm length.
+Clause 6.2: Precast concrete kerbs shall be cast using M25 grade concrete with a minimum 28-day characteristic compressive strength of 25 N/mm².
+Clause 6.3: Kerb stones shall be embedded in a concrete foundation bed of minimum thickness 100 mm using M15 grade concrete.
+
+7. ROAD DRAINAGE AND GULLIES
+Clause 7.1: Longitudinal roadside drainage channels shall maintain a minimum longitudinal gradient of 0.5% (1 in 200) toward catchpits.
+Clause 7.2: Stormwater catch pit gullies along road edges shall be installed at a maximum spacing of 30.0 meters.

@@ -1,0 +1,32 @@
+SUBSTRUCTURE AND FOUNDATION SPECIFICATION - SECTION 700: FOUNDATION ENGINEERING
+
+1.0 EXCAVATION AND EMBANKMENT
+1.1 Excavation for isolated footings shall extend to a minimum depth of 1.5 meters below natural ground level (NGL) or hard strata.
+1.2 Excavation side slopes in ordinary cohesive soils without shoring shall not exceed a maximum inclination of 1:1 (45 degrees).
+1.3 Deep excavation pits exceeding 3.0 meters depth must be stabilized using active temporary strutting or soldier pile retaining walls.
+1.4 Over-excavation beyond foundation design level shall be backfilled with M10 grade mass concrete up to the designated invert elevation; soil backfill is strictly prohibited under footing bases.
+1.5 Compaction of soil backfill around foundation structures shall achieve a minimum dry density of at least 95 percent of maximum laboratory dry density (Proctor density).
+
+2.0 SOIL BEARING CAPACITY AND SETTLEMENT
+2.1 Safe bearing capacity (SBC) of soil beneath shallow foundations shall be confirmed by plate load test for a minimum value of 150 kN/m² at founding level.
+2.2 Total allowable settlement for isolated column footings on sandy gravel soils shall not exceed maximum 50 millimeters.
+2.3 Differential settlement between adjacent column footings shall not exceed maximum 0.002 times the span distance (L / 500).
+2.4 Total allowable settlement for raft foundations on clay soils shall not exceed a maximum limit of 75 millimeters.
+
+3.0 PLAIN CONCRETE BEDDING (PCC) AND FOOTING DIMENSIONS
+3.1 A sub-base levelling course of Plain Cement Concrete (PCC) of minimum grade M15 shall be provided under all reinforced concrete footings.
+3.2 Minimum thickness of the PCC bedding layer under RCC footings shall be at least 100 millimeters.
+3.3 The PCC levelling bed shall project laterally beyond the outer edge of the RCC footing by a minimum offset of 100 millimeters on all sides.
+3.4 Minimum thickness of RCC isolated footing edges resting on soil shall not be less than 150 millimeters.
+3.5 Minimum edge thickness of sloped or stepped RCC footings resting on PCC bed shall be at least 200 millimeters.
+
+4.0 CONCRETE GRADE AND REINFORCEMENT
+4.1 Reinforced concrete for foundation elements in contact with ground soil shall use a minimum concrete grade of M25.
+4.2 Where soil analysis indicates soluble sulphate concentrations exceeding 0.2 percent, sulphate-resisting Portland cement (SRC) shall be used with a minimum cement content of at least 330 kg/m³.
+4.3 Clear concrete cover for foundation reinforcement bars placed directly against PCC bed shall be a minimum of 50 millimeters.
+4.4 Clear concrete cover for foundation steel placed directly against earth without PCC bed shall be at least 75 millimeters.
+4.5 Minimum percentage of reinforcement in isolated footings in both orthogonal directions shall be at least 0.12 percent of total cross-sectional area.
+
+5.0 WATERPROOFING AND SUB-DRAINAGE
+5.1 Exterior surfaces of basement foundation walls below grade level shall receive a minimum 2-coat cold-applied elastomeric bituminous waterproofing membrane with a minimum dry film thickness of 2.0 millimeters.
+5.2 Sub-surface perimeter French drain pipes of minimum 100 mm diameter perforated PVC shall be installed surrounded by a minimum 150 mm thick filter aggregate envelope.

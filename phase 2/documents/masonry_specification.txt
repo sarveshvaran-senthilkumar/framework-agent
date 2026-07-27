@@ -1,0 +1,38 @@
+PROJECT SPECIFICATION: MASONRY WORKS AND LINTELS
+SECTION 04 20 00 - UNIT MASONRY CONSTRUCTION
+STANDARD COMPLIANCE: IS 1077 / IS 2185 / IS 2250 / IS 1905
+
+1. BLOCK AND BRICK DIMENSIONS
+Clause 1.1: Autoclaved Aerated Concrete (AAC) blocks shall have standard length of 600 mm, height of 200 mm, and thickness of 150 mm or 200 mm per IS 2185 Part 3.
+Clause 1.2: Concrete solid masonry blocks shall have a minimum compressive strength of 7.5 N/mm² at 28 days.
+Clause 1.3: AAC block dry density shall be within the range of 550 kg/m³ to 650 kg/m³.
+Clause 1.4: Common burnt clay bricks shall have standard nominal dimensions of 190 mm x 90 mm x 90 mm and minimum compressive strength of 10.0 N/mm² per IS 1077.
+
+2. MORTAR MIX RATIOS AND STRENGTH
+Clause 2.1: Cement-sand mortar mix ratio for load-bearing brick masonry walls shall be 1:4 (1 part cement to 4 parts coarse sand by volume) per IS 2250.
+Clause 2.2: Cement-sand mortar mix ratio for non-load-bearing 115 mm internal partition walls shall be 1:3 with polymer bonding additives.
+Clause 2.3: Compressive strength of 1:4 masonry mortar at 28 days shall be at least 7.5 N/mm².
+
+3. WALL THICKNESS AND SLENDERNESS
+Clause 3.1: External perimeter masonry load-bearing walls shall have a minimum nominal thickness of 230 mm (or 200 mm for AAC blocks).
+Clause 3.2: Internal non-load-bearing partition walls shall have a minimum nominal thickness of 115 mm.
+Clause 3.3: Slenderness ratio of load-bearing masonry walls shall not exceed 27 per IS 1905 structural safety guidelines.
+
+4. MASONRY CURING REQUIREMENTS
+Clause 4.1: Clay brick and fly ash block masonry work shall undergo continuous wet curing for a minimum period of 7 days.
+Clause 4.2: Cement mortar joints in AAC block work laid with thin-bed adhesive shall be cured by fine water spray for at least 3 days.
+Clause 4.3: Masonry work exposed to direct sunlight in hot weather (>40°C) must be kept continuously moist for at least 10 days.
+
+5. JOINT THICKNESS AND BOND PATTERNS
+Clause 5.1: Mortar bed joint thickness for clay brickwork shall be maintained at a uniform thickness of 10 mm (minimum 8 mm, maximum 12 mm).
+Clause 5.2: Thin-bed adhesive joint thickness for AAC block masonry shall not exceed 3.0 mm.
+Clause 5.3: Brickwork shall be laid in English Bond pattern, ensuring vertical head joints in alternate courses overlap by at least 50 mm.
+
+6. WALL REINFORCEMENT AND TIE BEAMS
+Clause 6.1: Half-brick thick (115 mm) walls shall incorporate continuous 2 nos. 8 mm diameter Fe500 rebar reinforcement embedded in 1:3 mortar every 4th course (at maximum vertical spacing of 600 mm).
+Clause 6.2: RCC sill bands of 75 mm thickness with 2 nos. 10 mm rebar shall be provided at window sill level in all partition walls.
+
+7. REINFORCED CONCRETE LINTELS
+Clause 7.1: Reinforced concrete lintels over wall openings up to 1.5 meters clear span shall have a minimum depth of 150 mm.
+Clause 7.2: Reinforced concrete lintels over openings exceeding 1.5 meters span shall have a minimum bearing length of 230 mm on each side support.
+Clause 7.3: Reinforced concrete lintel projection beyond door/window openings shall be at least 150 mm or height of lintel, whichever is greater.

@@ -1,0 +1,35 @@
+PROJECT SPECIFICATION: WATERPROOFING AND MOISTURE PROTECTION
+SECTION 07 10 00 - DAMP-PROOFING AND WATERPROOFING SYSTEMS
+STANDARD COMPLIANCE: IS 3037 / IS 1346 / BS 8102
+
+1. WATERPROOFING MEMBRANE THICKNESS
+Clause 1.1: APP modified torch-on bituminous waterproofing membrane shall have a minimum thickness of 4.0 mm.
+Clause 1.2: Liquid-applied polyurethane waterproofing membrane thickness across exposed terrace slabs shall be at least 1.5 mm after curing.
+Clause 1.3: Self-adhesive SBS modified bituminous membrane for below-grade applications shall have a minimum thickness of 2.0 mm.
+
+2. MEMBRANE OVERLAP REQUIREMENTS
+Clause 2.1: Side lap overlaps for bituminous roll membranes shall be a minimum of 100 mm.
+Clause 2.2: End lap overlaps for bituminous roll membranes shall be at least 150 mm.
+Clause 2.3: Sheet membrane overlaps around pipe penetrations shall extend at least 100 mm beyond penetration flanges.
+
+3. TREATMENT FOR WET AREAS
+Clause 3.1: Wet areas including toilets and bathrooms shall receive a two-coat acrylic polymer modified cementitious slurry coat of minimum thickness 2.0 mm.
+Clause 3.2: Vertical corner coving at wall-to-floor junctions in wet areas shall have a minimum radius of 50 mm using 1:3 polymer-modified mortar.
+Clause 3.3: Waterproofing membrane application in wet areas shall extend up walls to a minimum height of 300 mm above finished floor level, except in shower zones where it shall reach at least 2100 mm height.
+Clause 3.4: Plumbing pipe sleeve penetrations through floor slabs shall be sealed with a polyurethane sealant perimeter joint of minimum width 15 mm and depth 10 mm.
+
+4. TERRACE WATERPROOFING SYSTEMS
+Clause 4.1: Exposed terrace waterproofing systems shall include protective brickbat coba insulation with a minimum thickness of 75 mm laid to a slope of at least 1 in 100.
+Clause 4.2: Terrace rainwater drain outlets shall be fitted with cast iron grilles and sealed with an elastomeric membrane extension of at least 200 mm into drain pipes.
+Clause 4.3: Parapet wall flashing groove depth for embedding waterproofing membrane edge shall be a minimum of 25 mm by 25 mm located 300 mm above finished terrace level.
+
+5. BASEMENT SUB-STRUCTURE WATERPROOFING
+Clause 5.1: Basement retaining walls shall be treated with an HDPE self-adhesive waterproofing membrane having a minimum thickness of 1.2 mm.
+Clause 5.2: Crystalline waterproofing slurry applied to basement raft foundations shall have a minimum coverage rate of 1.0 kg/m² applied in two coats.
+Clause 5.3: Basement expansion joints shall incorporate a central PVC waterstop with a minimum width of 230 mm and minimum thickness of 6 mm.
+Clause 5.4: Construction cold joints in basement concrete walls shall feature a hydrophilic swelling waterstop bar of minimum section 20 mm x 10 mm.
+
+6. CURING AND PONDING TESTING
+Clause 6.1: Cementitious waterproofing coats shall undergo continuous wet curing for a minimum duration of 7 days before testing.
+Clause 6.2: Water ponding test depth on flat roof terraces shall be maintained at a minimum of 50 mm for at least 48 hours without leakage or dampness.
+Clause 6.3: Concrete surface moisture content before applying polyurethane waterproofing membrane must not exceed 4.0%.

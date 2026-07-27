@@ -1,0 +1,33 @@
+ELECTRICAL INSTALLATION SPECIFICATION - SECTION 800: BUILDING ELECTRICAL SYSTEMS
+
+1.0 WIRING, CONDUCTORS, AND CONDUITS
+1.1 All light circuit conductors shall utilize FRLS copper wire with a minimum conductor cross-sectional area of at least 1.5 sq mm.
+1.2 Power socket outlets (16A) shall be wired with FRLS copper conductors having a minimum cross-sectional area of not less than 4.0 sq mm.
+1.3 Air conditioner and heavy motor circuits shall use copper conductors with a minimum size of 6.0 sq mm.
+1.4 Rigid heavy-duty PVC electrical conduits buried in slabs or walls shall have a minimum outer diameter of at least 20 millimeters and minimum wall thickness of 2.0 mm.
+1.5 Maximum fill ratio of wires inside any electrical conduit shall not exceed 40 percent of total internal cross-sectional conduit area.
+
+2.0 DISTRIBUTION BOARDS AND CIRCUIT PROTECTION
+2.1 Main Distribution Boards (MDB) shall be enclosed in sheet steel cabinets with a minimum IP rating of at least IP42 for indoor use and IP65 for outdoor locations.
+2.2 Earth Leakage Circuit Breakers (ELCB / RCCB) with a trip sensitivity rating of maximum 30 milliamperes (30 mA) must be installed on all residential socket circuits.
+2.3 Miniature Circuit Breakers (MCB) for lighting circuits shall have a maximum current rating of 10 Amperes with a short-circuit breaking capacity of at least 10 kA.
+2.4 Dedicated 16 Ampere MCBs shall protect individual power socket loops serving kitchen appliances.
+2.5 Voltage drop between the main incoming supply meter and the furthest socket outlet terminal shall not exceed a maximum of 3.0 percent of normal supply voltage.
+
+3.0 EARTHING AND GROUNDING SYSTEM
+3.1 Copper plate earthing electrode dimensions shall be a minimum of 600 mm x 600 mm with a minimum plate thickness of at least 3.0 millimeters.
+3.2 Pipe earthing electrodes shall consist of G.I. pipe of minimum internal diameter of 38 millimeters and a minimum pipe length of 2.5 meters.
+3.3 The total electrical ground loop resistance of the main earthing system shall strictly not exceed maximum 1.0 Ohm.
+3.4 Main earthing conductors connecting DB boards to grounding electrodes shall be at least 14 SWG (2.0 mm diameter) bare copper wire or 25x3 mm G.I. strip.
+3.5 Minimum distance between two separate ground earthing electrodes shall not be less than 2.0 meters.
+
+4.0 LIGHTING AND ILLUMINATION STANDARDS
+4.1 General office working areas shall maintain a minimum maintained illuminance level of 300 Lux measured at desk height (0.75 m above floor level).
+4.2 Residential living rooms shall be provided with a minimum average light level of at least 150 Lux.
+4.3 Staircases and emergency escape corridors must maintain a minimum light intensity of at least 50 Lux at floor level.
+
+5.0 SWITCHBOARD AND SOCKET OUTLET HEIGHTS
+5.1 Standard light switchboards shall be installed at a height of minimum 1.2 meters and maximum 1.3 meters above finished floor level.
+5.2 Convenience 6A socket outlets in habitable rooms shall be placed at a minimum height of 300 millimeters above finished floor level.
+5.3 Kitchen countertop power socket outlets shall be installed at a minimum height of 200 millimeters above working counter surface level.
+5.4 Bathroom mirror light points and shaver sockets must maintain a clear distance of at least 600 millimeters from water tap outlets.

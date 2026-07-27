@@ -1,0 +1,39 @@
+PROJECT SPECIFICATION: PAINTING AND PROTECTIVE FINISHES
+SECTION 09 90 00 - PAINTS, COATINGS AND SURFACE FINISHES
+STANDARD COMPLIANCE: IS 5410 / IS 2395 / IS 1477 / ISO 8501
+
+1. PRIMER COAT APPLICATION
+Clause 1.1: All internal plaster surfaces shall receive a minimum of 1 coat of alkali-resistant acrylic primer before putty application.
+Clause 1.2: External concrete and plaster surfaces shall receive 1 coat of exterior grade silicone/acrylic primer with a minimum dry film thickness (DFT) of 30 microns.
+Clause 1.3: Structural steelwork shall receive 1 coat of zinc phosphate primer having a minimum dry film thickness of 50 microns within 4 hours of blast cleaning.
+
+2. FINISH COATS AND COATING THICKNESS
+Clause 2.1: Internal wall surfaces shall receive a minimum of 2 finish coats of premium acrylic emulsion paint over primer and putty.
+Clause 2.2: External wall surfaces shall receive at least 2 coats of 100% acrylic exterior anti-fungal weather-shield paint.
+Clause 2.3: Total dry film thickness (DFT) of exterior paint system (primer + 2 finish coats) shall not be less than 80 microns.
+Clause 2.4: Steel structure topcoat system shall achieve a total minimum DFT of 150 microns (primer + intermediate epoxy + polyurethane topcoat).
+
+3. SURFACE PREPARATION STANDARDS
+Clause 3.1: Plaster surfaces prior to painting shall be cured for a minimum of 28 days and have a moisture content not exceeding 8.0%.
+Clause 3.2: Concrete surface pH value must be between 7.0 and 9.0 before applying primer coats.
+Clause 3.3: Surface preparation for structural steel painting shall require wire brushing and sandblasting to achieve minimum Sa 2.5 cleanliness rating per ISO 8501-1.
+
+4. PAINT TYPES AND MATERIAL SPECIFICATIONS
+Clause 4.1: Wood surfaces shall be finished with polyurethane (PU) clear lacquer consisting of 2 coats of sealer and 2 coats of topcoat.
+Clause 4.2: Metal handrails and door frames shall be painted with 1 coat of zinc chromate primer and 2 coats of synthetic enamel paint.
+Clause 4.3: High-traffic utility rooms and basement floors shall receive a 100% solids epoxy floor coating with a minimum thickness of 2.0 mm.
+
+5. DRYING TIMES AND CURING INTERVALS
+Clause 5.1: Minimum drying time between successive coats of interior acrylic emulsion paint shall be at least 4.0 hours at 25°C ambient temperature.
+Clause 5.2: Minimum re-coat interval for exterior acrylic weather-shield paint shall be 6.0 hours under normal ambient conditions.
+Clause 5.3: Full curing time for polyurethane wood coatings before hard usage shall be a minimum of 7 days.
+Clause 5.4: Epoxy floor coatings must cure for a minimum of 72 hours before permitting light foot traffic.
+
+6. COVERAGE RATES AND SPREADING CAPACITY
+Clause 6.1: Interior acrylic emulsion paint coverage rate shall be between 12.0 and 14.0 square meters per liter per coat on primed surfaces.
+Clause 6.2: Exterior emulsion paint coverage rate shall not be less than 8.5 m² per liter per coat.
+Clause 6.3: Epoxy floor coating coverage shall be calculated at a rate of 3.0 m² per kg for a 1.0 mm thick layer.
+
+7. COLOR SPECIFICATIONS AND ACCURACY
+Clause 7.1: Paint colors for internal walls shall conform strictly to RAL / BS color code specifications indicated in architectural finish schedules.
+Clause 7.2: Color variation between paint batches applied on the same continuous wall area shall not exceed Delta E < 0.5.

@@ -1,0 +1,30 @@
+REINFORCED CONCRETE SLAB DESIGN SPECIFICATION - SECTION 600: FLOOR AND ROOF SLABS
+
+1.0 SLAB THICKNESS AND SPAN-TO-DEPTH RATIOS
+1.1 The minimum total thickness for residential reinforced concrete floor slabs shall be at least 110 millimeters.
+1.2 The minimum thickness for roof slabs subjected to solar insulation and thermal stresses shall be at least 125 millimeters.
+1.3 The basic span-to-effective-depth ratio (L/d) for simply supported one-way slabs shall not exceed maximum 20.
+1.4 The basic span-to-effective-depth ratio (L/d) for continuous one-way slabs shall not exceed maximum 26.
+1.5 For two-way simply supported slabs with mild steel, the span-to-overall-depth ratio (L/D) shall not exceed maximum 35 for spans up to 3.5 meters.
+1.6 For two-way continuous slabs with Fe 500 rebar, the span-to-overall-depth ratio (L/D) shall not exceed maximum 40 for spans up to 3.5 meters.
+
+2.0 MAIN AND DISTRIBUTION REINFORCEMENT
+2.1 Minimum percentage of distribution steel in slabs using Fe 500 grade deformed bars shall be at least 0.12 percent of gross cross-sectional area.
+2.2 Minimum percentage of main reinforcement in slabs using mild steel bars shall be at least 0.15 percent of total slab area.
+2.3 Maximum percentage of main tension reinforcement in floor slabs shall not exceed 2.0 percent of gross cross-sectional area.
+2.4 The minimum diameter of main reinforcing bars used in floor slabs shall not be less than 8 millimeters.
+2.5 The maximum diameter of any slab reinforcement bar shall not exceed 1/8th of the total slab thickness (D / 8).
+2.6 Maximum spacing of main tension reinforcement bars in slabs shall not exceed 3 times the effective depth (3d) or 300 millimeters, whichever is smaller.
+2.7 Maximum spacing of distribution rebar in slabs shall not exceed 4 times the effective depth (4d) or 450 millimeters, whichever is less.
+
+3.0 TWO-WAY SLAB EDGE STRIPS AND TENSION RESTRAINT
+3.1 Torsional reinforcement shall be provided at corners of two-way slabs where edges are restrained against lifting, with an area of at least 75 percent of maximum mid-span tension steel.
+3.2 Corner torsional rebar mats shall extend from edges for a minimum distance of 1/5th of the shorter span length (Lx / 5).
+3.3 The slab middle strip width for two-way panel calculations shall equal a minimum of 3/4th of the total panel width.
+3.4 The slab edge strips shall occupy a maximum width of 1/8th of the panel dimension on each side.
+
+4.0 DEFLECTION LIMITS AND COVER REQUIREMENTS
+4.1 The long-term deflection of floor slabs due to all sustained loads including creep and shrinkage shall not exceed Span / 250.
+4.2 Maximum deflection occurring after installation of internal non-structural masonry partitions shall not exceed Span / 350 or 20 millimeters, whichever is smaller.
+4.3 The nominal clear concrete cover for interior slab reinforcement under mild exposure shall be a minimum of 15 millimeters.
+4.4 Clear cover for external cantilever slab soffits subjected to moderate atmospheric exposure shall be at least 20 millimeters.

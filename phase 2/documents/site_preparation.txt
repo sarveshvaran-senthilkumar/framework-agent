@@ -1,0 +1,36 @@
+PROJECT SPECIFICATION: SITE PREPARATION AND TEMPORARY WORKS
+SECTION 31 10 00 - SITE CLEARING, DEWATERING AND SURVEY CONTROL
+STANDARD COMPLIANCE: IS 3764 / IS 6313 / IS 4082 / NBC 2016 PART 2
+
+1. GROUND CLEARANCE AND TOPSOIL STRIPPING
+Clause 1.1: Topsoil stripping and site ground clearance shall extend to a minimum depth of 150 mm across the entire building footprint area.
+Clause 1.2: Vegetation, roots, and organic matter cleared from site shall be stockpiled at least 10.0 meters away from excavation boundaries.
+Clause 1.3: Topsoil stockpiles preserved for landscape re-use shall not exceed a maximum height of 2.0 meters to maintain soil aeration.
+
+2. GROUND COMPACTION REQUIREMENTS
+Clause 2.1: Existing ground surface below subgrade level shall be compacted to achieve a minimum of 95% Maximum Dry Density (MDD).
+Clause 2.2: Site grading and fill placement shall be compacted in uniform horizontal lifts not exceeding 200 mm loose thickness.
+Clause 2.3: Heavy vibratory rollers (>10 tonne static weight) shall complete at least 6 passes per compaction layer.
+
+3. SITE DEWATERING AND DISCHARGE
+Clause 3.1: Dewatering system shall maintain the ground water table at a minimum depth of 1.0 meter below the deepest foundation excavation level at all times during foundation construction.
+Clause 3.2: Dewatering discharge water must pass through a temporary sedimentation basin with a minimum retention time of 2.0 hours before off-site discharge.
+Clause 3.3: Total suspended solids (TSS) in dewatering discharge water shall not exceed 50 mg/L.
+Clause 3.4: Piezometric monitoring wells shall be installed at a maximum spacing of 25.0 meters around deep excavation perimeters.
+
+4. ANTI-TERMITE SOIL TREATMENT
+Clause 4.1: Anti-termite soil treatment chemical emulsion shall be Imidacloprid 30.5% SC applied at a minimum concentration of 0.075% active ingredient per IS 6313 Part 2.
+Clause 4.2: Anti-termite treatment chemical application rate for trench bottom and sides shall be at least 5.0 liters per square meter of surface area.
+Clause 4.3: Chemical barrier around external perimeter foundation walls shall be treated at a minimum rate of 7.5 liters per linear meter of wall.
+Clause 4.4: Plinth fill soil surface prior to casting floor slab RCC bed shall be treated at a minimum rate of 5.0 liters/m².
+
+5. SURVEY BENCHMARKS AND GRID LAYOUT
+Clause 5.1: Permanent site survey reference benchmarks shall be established in concrete pillars with a minimum cross-section of 300 mm x 300 mm and depth 1.0 meter below ground level.
+Clause 5.2: Minimum number of permanent survey benchmarks established on site shall be at least 3 points tied to national GTS datum.
+Clause 5.3: Survey layout grid line marker positioning tolerance shall not exceed ±2.0 mm.
+
+6. TEMPORARY FACILITIES AND UTILITIES
+Clause 6.1: Temporary site perimeter security fencing shall have a minimum height of 2.4 meters above ground level.
+Clause 6.2: Temporary contractor office accommodation and worker rest facilities shall provide a minimum area of 3.0 square meters per person.
+Clause 6.3: Site temporary water supply storage tanks shall have a minimum capacity of 10,000 liters for construction and sanitation needs.
+Clause 6.4: Temporary electrical distribution points on site shall be fitted with Residual Current Circuit Breakers (RCCB) having a maximum tripping current of 30 mA.

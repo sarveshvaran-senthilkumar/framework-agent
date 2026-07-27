@@ -1,0 +1,38 @@
+GEOTECHNICAL INVESTIGATION REPORT AND SOIL SPECIFICATIONS
+SECTION 31 00 00 - EARTHWORK AND GEOTECHNICAL CRITERIA
+STANDARD COMPLIANCE: IS 1893 / IS 1904 / IS 2720 / SP 36
+
+1. ALLOWABLE BEARING CAPACITY
+Clause 1.1: Safe Bearing Capacity (SBC) of isolated footings placed at a minimum depth of 2.0 meters shall be taken as a minimum of 180 kN/m² per IS 1904.
+Clause 1.2: Ultimate bearing capacity for raft foundation at 3.5 meters depth shall be at least 350 kN/m².
+Clause 1.3: Allowable skin friction resistance for bored cast-in-situ concrete piles shall be taken as a maximum of 35 kN/m² in clay strata.
+
+2. GROUND WATER TABLE CONDITIONS
+Clause 2.1: Field ground water table depth recorded during site exploration was found at a minimum depth of 4.2 meters below existing ground level.
+Clause 2.2: Structural foundation design must account for potential seasonal ground water rise up to a maximum elevation of 1.5 meters below ground level.
+Clause 2.3: Foundation concrete in contact with subsoil shall use Sulfate Resisting Portland Cement (SRPC) if water sulfate concentration exceeds 500 mg/L.
+
+3. STANDARD PENETRATION TEST (SPT) VALUES
+Clause 3.1: Standard Penetration Test (SPT) N-values between 0.0 m and 3.0 m depth shall not be less than 12 blows per 300 mm penetration.
+Clause 3.2: Standard Penetration Test (SPT) N-values below 4.5 m depth in dense sand stratum shall be at least 30 blows per 300 mm penetration.
+Clause 3.3: Corrected SPT N-value for overburden and dilatancy in fine sand below water table shall not be less than 15.
+
+4. SOIL STRATIGRAPHY AND CLASSIFICATION
+Clause 4.1: Upper soil stratum (0.0m - 2.5m) is classified as Medium Plasticity Clay (CI) with Liquid Limit not exceeding 45% per IS 1498.
+Clause 4.2: Lower soil stratum (2.5m - 6.0m) is classified as Well-Graded Sand with Gravel (SW-SM) containing less than 10% fines passing 75-micron sieve.
+Clause 4.3: Soil organic content in foundation strata shall not exceed 2.0% by dry weight per IS 2720 Part 22.
+
+5. SETTLEMENT LIMITS
+Clause 5.1: Maximum total allowable settlement for isolated footings on sandy soil shall not exceed 50 mm per IS 1904 recommendations.
+Clause 5.2: Maximum differential settlement between adjacent structural columns shall not exceed 20 mm (or 1 in 500 relative rotation).
+Clause 5.3: Maximum total allowable settlement for raft foundation on clayey strata shall not exceed 75 mm.
+
+6. EARTHWORK COMPACTION REQUIREMENTS
+Clause 6.1: Structural backfill beneath floor slabs shall be compacted to achieve a minimum of 95% Maximum Dry Density (MDD) at optimum moisture content per IS 2720 Part 8.
+Clause 6.2: Embankment soil fill compaction layer thickness before rolling shall not exceed 250 mm loose depth.
+Clause 6.3: Field density testing using Sand Replacement Method shall be performed at a minimum frequency of 1 test per 250 m² per compacted layer.
+
+7. CHEMICAL AND RESISTIVITY PROPERTIES
+Clause 7.1: Soil pH value in foundation zone shall be between 6.5 and 8.5 to prevent aggressive chemical attack on concrete.
+Clause 7.2: Soluble sulfate content in foundation soil shall not exceed 0.2% (2000 ppm) expressed as SO3.
+Clause 7.3: Soil electrical resistivity shall be at least 30 ohm-meters to minimize stray current corrosion risk.

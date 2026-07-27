@@ -1,0 +1,33 @@
+REINFORCED CONCRETE BEAM DESIGN SPECIFICATION - SECTION 400: STRUCTURAL BEAMS
+
+1.0 GEOMETRIC CONSTRAINTS AND DIMENSIONAL LIMITS
+1.1 The minimum overall web width for structural reinforced concrete beams shall be at least 200 millimeters.
+1.2 The width-to-depth ratio (b/D) for rectangular beams shall not be less than 0.30 to ensure lateral stability.
+1.3 The effective span to effective depth ratio (L/d) for simply supported beams shall not exceed a maximum of 20 for spans up to 10 meters.
+1.4 For continuous beams, the effective span to effective depth ratio (L/d) shall not exceed maximum 26.
+1.5 For cantilever beams, the effective span to effective depth ratio (L/d) shall strictly not exceed maximum 7.
+1.6 Total overall beam depth shall not exceed 1/10th of the span length for standard gravity load frames.
+
+2.0 LONGITUDINAL REINFORCEMENT REQUIREMENTS
+2.1 The minimum area of tension reinforcement in beams (As_min) shall not be less than (0.85 * b * d / fy), where fy is yield strength in N/mm².
+2.2 The maximum percentage of longitudinal tension reinforcement in beams shall not exceed 4.0 percent of total cross-sectional area (b * D).
+2.3 The maximum percentage of longitudinal compression reinforcement in doubly reinforced beams shall not exceed 4.0 percent of gross beam area.
+2.4 Side face reinforcement shall be provided along both faces of beams when total depth exceeds 750 millimeters, with an area of at least 0.1 percent of web area.
+2.5 Maximum spacing of side face reinforcement bars shall not exceed 300 millimeters or web thickness, whichever is smaller.
+
+3.0 SHEAR REINFORCEMENT AND STIRRUPS
+3.1 Minimum shear reinforcement area per unit spacing (Asv / s) shall not be less than (0.4 * b / 0.87 * fy).
+3.2 Maximum spacing of shear stirrups along the beam axis shall not exceed 0.75 times the effective depth (0.75d) or 300 millimeters, whichever is less.
+3.3 In seismic zone IV and V, stirrup spacing within a distance of 2 times member depth (2D) from column faces shall not exceed d/4 or 100 millimeters, whichever is smaller.
+3.4 The minimum bar diameter for vertical shear stirrups shall be at least 8 millimeters for beam spans up to 6 meters.
+3.5 Double-legged stirrups must be used as minimum configuration; single-legged open ties are strictly prohibited for structural beams.
+
+4.0 DEFLECTION CONTROL AND SERVICEABILITY
+4.1 The final deflection of beams due to all loads including temperature, creep, and shrinkage shall not exceed Span / 250.
+4.2 Deflection occurring after erection of partitions or application of finishes shall not exceed Span / 350 or 20 millimeters, whichever is less.
+4.3 Crack width at the tension surface under service loads shall not exceed maximum 0.3 millimeters for moderate exposure environments.
+
+5.0 COVER AND END BEARING
+5.1 The minimum clear cover to main longitudinal reinforcement in beams shall be at least 25 millimeters or bar diameter, whichever is greater.
+5.2 The clear distance from beam bottom rebar to soffit formwork shall maintain a tolerance not exceeding +/- 3 millimeters.
+5.3 End bearing length of beams resting on masonry walls shall be a minimum of 200 millimeters or full beam depth, whichever is greater.

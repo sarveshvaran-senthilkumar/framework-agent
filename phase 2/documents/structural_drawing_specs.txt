@@ -1,0 +1,37 @@
+PROJECT SPECIFICATION: STRUCTURAL DRAWING DRAFTING STANDARDS
+SECTION 01 33 00 - DRAWING PRESENTATION AND CAD STANDARDS
+STANDARD COMPLIANCE: IS 962 / IS 10711 / SP 46 / BS 8666
+
+1. DRAWING SCALES AND VIEW CONFIGURATIONS
+Clause 1.1: Overall structural general arrangement plans shall be drawn to a scale of 1:100 or 1:50 per IS 962 / SP 46 recommendations.
+Clause 1.2: Detailed connection sections and rebar anchorage details shall be drawn to a minimum scale of 1:20 or 1:10.
+Clause 1.3: Site master layout and foundation key plans shall be presented at a scale of 1:500 or 1:200.
+Clause 1.4: Detailed column schedule drawings shall use a horizontal scale of 1:20 and vertical scale of 1:50.
+
+2. DIMENSIONING TOLERANCES ON DRAWINGS
+Clause 2.1: Permissible linear dimension tolerance on structural working drawings shall not exceed ±2.0 mm for structural steel grid centers.
+Clause 2.2: Concrete dimension tolerances specified on framing layouts shall not exceed ±5.0 mm for overall beam and column cross-sections.
+Clause 2.3: Level elevation marks indicated on structural drawings must maintain an accuracy within ±1.0 mm of project benchmark datum.
+Clause 2.4: Anchor bolt center-to-center dimension tolerance shall not exceed ±1.5 mm.
+
+3. REINFORCEMENT BAR MARKING CONVENTIONS
+Clause 3.1: Reinforcing bar callouts shall follow standard convention format: [Number]-[Diameter Symbol]-[Bar Mark]-[Spacing/Pitch], e.g., 8-T16-01-150 c/c.
+Clause 3.2: Rebar shape code designations on schedules shall strictly comply with BS 8666 or IS 2502 standards.
+Clause 3.3: Main reinforcement bar marks must be designated with prefix 'T' for Fe500/Fe550 grade thermo-mechanically treated (TMT) bars.
+Clause 3.4: Stirrups and tie bar callouts shall be prefixed with 'R' for mild steel or 'T' for high-yield deformed bars.
+
+4. SECTION HATCHING SYMBOLOGY
+Clause 4.1: Reinforced concrete cross-sections shall be hatched using standard 45-degree angled hatching lines spaced at 2.0 mm to 3.0 mm intervals.
+Clause 4.2: Structural steel sections in detailed cut views shall be shaded solid black or hatch-patterned per IS 696 standards.
+Clause 4.3: Unexcavated earth and soil profile hatching in foundation sections shall use standard 60-degree grouped triple hatching lines.
+Clause 4.4: Masonry wall cut sections shall be hatched using alternating solid and dashed 45-degree parallel lines.
+
+5. TITLE BLOCK AND SHEET LAYOUT
+Clause 5.1: Standard title block dimensions on A1 size drawing sheets shall be exactly 185 mm in width and 65 mm in height located at the bottom-right corner.
+Clause 5.2: Title block must contain a minimum of 8 mandatory fields: Project Name, Drawing Title, Drawing Number, Revision Number, Scale, Date, Drawn By, and Approved By.
+Clause 5.3: Revisions to structural drawings shall be clearly indicated using revision cloud callouts and delta symbols with a minimum symbol height of 6.0 mm.
+
+6. ANNOTATION TEXT AND MARGIN REQUIREMENTS
+Clause 6.1: Structural drawing text height for general notes and dimensions shall be a minimum of 2.5 mm on printed output.
+Clause 6.2: Structural drawing text height for major section titles and grid headers shall be at least 5.0 mm.
+Clause 6.3: Drawing sheet border margins shall be set at a minimum of 20 mm on the left binding edge and 10 mm on top, right, and bottom edges.

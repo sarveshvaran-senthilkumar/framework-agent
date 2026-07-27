@@ -1,0 +1,29 @@
+REINFORCED CONCRETE COLUMN DESIGN SPECIFICATION - SECTION 500: STRUCTURAL COLUMNS
+
+1.0 GEOMETRIC CONSTRAINTS AND SLENDERNESS RATIO
+1.1 The minimum cross-sectional dimension of any structural column shall not be less than 200 millimeters for non-seismic frames.
+1.2 For columns forming part of seismic force resisting frames, the minimum dimension shall be at least 300 millimeters.
+1.3 The ratio of shortest cross-sectional dimension to longest dimension of a rectangular column shall not be less than 0.40.
+1.4 The unsupported length to least lateral dimension ratio (slenderness ratio L_e / b) for short compression columns shall not exceed 12.
+1.5 The slenderness ratio (L_e / b) for any slender column shall strictly not exceed maximum 60.
+1.6 Minimum design eccentricity (e_min) for column axial loading shall be calculated as (L / 500) + (D / 30), subject to a minimum of 20 millimeters.
+
+2.0 LONGITUDINAL REINFORCEMENT REQUIREMENTS
+2.1 The minimum cross-sectional area of longitudinal reinforcement in columns shall be at least 0.8 percent of gross cross-sectional area (Ag).
+2.2 The maximum cross-sectional area of longitudinal reinforcement in columns shall not exceed 6.0 percent of gross cross-sectional area (Ag) for un-lapped sections.
+2.3 Where longitudinal rebar is lap-spliced at column base, maximum reinforcement percentage shall not exceed 4.0 percent of gross column area.
+2.4 A rectangular column shall have a minimum of 4 longitudinal main bars, and circular columns shall feature at least 6 main longitudinal bars.
+2.5 The minimum diameter of longitudinal main reinforcing bars in structural columns shall not be less than 12 millimeters.
+
+3.0 TRANSVERSE REINFORCEMENT AND TIES
+3.1 The diameter of lateral ties in columns shall be at least 1/4th the diameter of the largest longitudinal bar, and not less than 8 millimeters.
+3.2 Maximum pitch/spacing of lateral ties shall not exceed the smallest lateral column dimension, 16 times smallest main bar diameter, or 300 millimeters, whichever is least.
+3.3 For helical columns, the ratio of volume of helical reinforcement to volume of concrete core (V_h / V_c) shall be at least 0.45 * (Ag/Ac - 1) * (fck/fy).
+3.4 Helical tie pitch shall not be greater than 75 millimeters, nor less than 25 millimeters or 3 times the diameter of helical bar.
+3.5 In seismic confinement zones at column ends, maximum tie spacing shall not exceed 100 millimeters or 1/4th of column minimum cross-sectional dimension.
+
+4.0 CONCRETE COVER AND SPACING
+4.1 The nominal clear concrete cover to lateral ties in columns shall be a minimum of 40 millimeters.
+4.2 For columns with cross-section less than 200 mm and using 12 mm main bars, nominal clear cover may be reduced to a minimum of 25 millimeters.
+4.3 Clear distance between longitudinal vertical bars shall be at least the bar diameter or 40 millimeters, whichever is greater.
+4.4 Clear concrete cover tolerance during column rebar cage alignment shall not exceed +/- 5 millimeters.
